@@ -1,0 +1,40 @@
+﻿<PageTitle>@(GetTitle())</PageTitle>
+<HeadContent>
+    <meta Name="keywords" Content="@GetKeywords()" />
+    <meta Property="og:title" Content="@GetTitle()" />
+    @if (!string.IsNullOrEmpty(Overview))
+    {
+        <meta Name="description" Content="@GetSubTitle()" />
+    }
+</HeadContent>
+
+@code {
+    [Parameter]
+    public string? Title { get; set; }
+    
+    [Parameter]
+    public string? Overview { get; set; }
+    
+    [Parameter]
+    public IEnumerable<string> Keywords { get; set; } = new List<string>();
+        
+    string GetTitle() => Title is null ? "MiniPaintHelper" : $"{Title} | MiniPaintHelper";
+        
+    string GetSubTitle()
+    {
+        if (string.IsNullOrEmpty(Overview))
+            return "";
+        return Overview.TrimEnd('.') + ".";
+    }
+    
+    string GetKeywords()
+    {
+        var keywords = new List<string>();
+        
+        keywords.AddRange(Keywords);
+        
+        keywords.Add("[YOUR NAME or BRAND]");
+    
+        return string.Join(", ", keywords);
+    }
+}
