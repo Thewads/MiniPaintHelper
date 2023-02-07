@@ -1,0 +1,1444 @@
+[
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Wizards Orb",
+  	"Rgb": {
+  	  "R": 7,
+  	  "G": 116,
+  	  "B": 97
+  	},
+  	"Lab": {
+  	  "l": 43.36,
+  	  "A": -32.34,
+  	  "B": 2.74
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Elemental Bolt",
+  	"Rgb": {
+  	  "R": 17,
+  	  "G": 143,
+  	  "B": 119
+  	},
+  	"Lab": {
+  	  "l": 53.05,
+  	  "A": -37.52,
+  	  "B": 3.84
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Toxic Mist",
+  	"Rgb": {
+  	  "R": 60,
+  	  "G": 187,
+  	  "B": 193
+  	},
+  	"Lab": {
+  	  "l": 69.72,
+  	  "A": -31.87,
+  	  "B": -13.11
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Royal Cloak",
+  	"Rgb": {
+  	  "R": 17,
+  	  "G": 144,
+  	  "B": 150
+  	},
+  	"Lab": {
+  	  "l": 54.31,
+  	  "A": -28.66,
+  	  "B": -12.2
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Hydra Turquoise",
+  	"Rgb": {
+  	  "R": 15,
+  	  "G": 148,
+  	  "B": 157
+  	},
+  	"Lab": {
+  	  "l": 55.8,
+  	  "A": -28.48,
+  	  "B": -13.97
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Deep Blue",
+  	"Rgb": {
+  	  "R": 5,
+  	  "G": 62,
+  	  "B": 91
+  	},
+  	"Lab": {
+  	  "l": 24.43,
+  	  "A": -5.2,
+  	  "B": -22.07
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Griffon Blue",
+  	"Rgb": {
+  	  "R": 25,
+  	  "G": 71,
+  	  "B": 121
+  	},
+  	"Lab": {
+  	  "l": 29.65,
+  	  "A": 3.49,
+  	  "B": -32.95
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Ultramarine Blue",
+  	"Rgb": {
+  	  "R": 12,
+  	  "G": 86,
+  	  "B": 131
+  	},
+  	"Lab": {
+  	  "l": 34.75,
+  	  "A": -3.55,
+  	  "B": -31.08
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Viking Blue",
+  	"Rgb": {
+  	  "R": 11,
+  	  "G": 93,
+  	  "B": 153
+  	},
+  	"Lab": {
+  	  "l": 38.2,
+  	  "A": 0.86,
+  	  "B": -38.95
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Electric Blue",
+  	"Rgb": {
+  	  "R": 82,
+  	  "G": 135,
+  	  "B": 185
+  	},
+  	"Lab": {
+  	  "l": 54.68,
+  	  "A": -2.88,
+  	  "B": -31.57
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Ice Storm",
+  	"Rgb": {
+  	  "R": 99,
+  	  "G": 158,
+  	  "B": 200
+  	},
+  	"Lab": {
+  	  "l": 62.74,
+  	  "A": -7.51,
+  	  "B": -27.49
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Voidshield Blue",
+  	"Rgb": {
+  	  "R": 53,
+  	  "G": 159,
+  	  "B": 217
+  	},
+  	"Lab": {
+  	  "l": 62.14,
+  	  "A": -10.6,
+  	  "B": -38.02
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Troglodyte Blue",
+  	"Rgb": {
+  	  "R": 16,
+  	  "G": 136,
+  	  "B": 186
+  	},
+  	"Lab": {
+  	  "l": 53.24,
+  	  "A": -11.94,
+  	  "B": -34.53
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Crystal Blue",
+  	"Rgb": {
+  	  "R": 16,
+  	  "G": 124,
+  	  "B": 189
+  	},
+  	"Lab": {
+  	  "l": 49.74,
+  	  "A": -3.83,
+  	  "B": -41.76
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Dark Sky",
+  	"Rgb": {
+  	  "R": 51,
+  	  "G": 78,
+  	  "B": 95
+  	},
+  	"Lab": {
+  	  "l": 31.76,
+  	  "A": -5.07,
+  	  "B": -13.14
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Wolf Grey",
+  	"Rgb": {
+  	  "R": 86,
+  	  "G": 123,
+  	  "B": 142
+  	},
+  	"Lab": {
+  	  "l": 49.61,
+  	  "A": -7.88,
+  	  "B": -14.44
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Fog Grey",
+  	"Rgb": {
+  	  "R": 124,
+  	  "G": 151,
+  	  "B": 178
+  	},
+  	"Lab": {
+  	  "l": 61.34,
+  	  "A": -2.99,
+  	  "B": -17.16
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Gorgon Hide",
+  	"Rgb": {
+  	  "R": 209,
+  	  "G": 214,
+  	  "B": 233
+  	},
+  	"Lab": {
+  	  "l": 85.77,
+  	  "A": 1.96,
+  	  "B": -9.9
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Matt Black",
+  	"Rgb": {
+  	  "R": 3,
+  	  "G": 5,
+  	  "B": 4
+  	},
+  	"Lab": {
+  	  "l": 1.23,
+  	  "A": -0.66,
+  	  "B": 0.19
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Necromancer Cloak",
+  	"Rgb": {
+  	  "R": 53,
+  	  "G": 61,
+  	  "B": 50
+  	},
+  	"Lab": {
+  	  "l": 24.72,
+  	  "A": -5.85,
+  	  "B": 5.68
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Dungeon Grey",
+  	"Rgb": {
+  	  "R": 104,
+  	  "G": 107,
+  	  "B": 112
+  	},
+  	"Lab": {
+  	  "l": 45.12,
+  	  "A": -0.08,
+  	  "B": -3.19
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Field Grey",
+  	"Rgb": {
+  	  "R": 124,
+  	  "G": 129,
+  	  "B": 123
+  	},
+  	"Lab": {
+  	  "l": 53.4,
+  	  "A": -3.06,
+  	  "B": 2.6
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Uniform Grey",
+  	"Rgb": {
+  	  "R": 93,
+  	  "G": 104,
+  	  "B": 108
+  	},
+  	"Lab": {
+  	  "l": 43.23,
+  	  "A": -3.27,
+  	  "B": -3.68
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Castle Grey",
+  	"Rgb": {
+  	  "R": 139,
+  	  "G": 136,
+  	  "B": 127
+  	},
+  	"Lab": {
+  	  "l": 56.71,
+  	  "A": -0.57,
+  	  "B": 5.22
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Hardened Carapace",
+  	"Rgb": {
+  	  "R": 71,
+  	  "G": 68,
+  	  "B": 59
+  	},
+  	"Lab": {
+  	  "l": 28.88,
+  	  "A": -0.56,
+  	  "B": 5.91
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Hemp Rope",
+  	"Rgb": {
+  	  "R": 154,
+  	  "G": 125,
+  	  "B": 57
+  	},
+  	"Lab": {
+  	  "l": 53.85,
+  	  "A": 3.1,
+  	  "B": 40.47
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Monster Brown",
+  	"Rgb": {
+  	  "R": 136,
+  	  "G": 94,
+  	  "B": 36
+  	},
+  	"Lab": {
+  	  "l": 43.31,
+  	  "A": 11.36,
+  	  "B": 38.75
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Leather Brown",
+  	"Rgb": {
+  	  "R": 125,
+  	  "G": 81,
+  	  "B": 32
+  	},
+  	"Lab": {
+  	  "l": 38.46,
+  	  "A": 13.7,
+  	  "B": 35.22
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Dirt Spatter",
+  	"Rgb": {
+  	  "R": 98,
+  	  "G": 58,
+  	  "B": 32
+  	},
+  	"Lab": {
+  	  "l": 28.71,
+  	  "A": 14.95,
+  	  "B": 23.35
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Oak Brown",
+  	"Rgb": {
+  	  "R": 68,
+  	  "G": 37,
+  	  "B": 16
+  	},
+  	"Lab": {
+  	  "l": 18.32,
+  	  "A": 12.49,
+  	  "B": 19.79
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Basilisk Brown",
+  	"Rgb": {
+  	  "R": 207,
+  	  "G": 134,
+  	  "B": 42
+  	},
+  	"Lab": {
+  	  "l": 62.07,
+  	  "A": 20.77,
+  	  "B": 57.46
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Sulfide Ochre",
+  	"Rgb": {
+  	  "R": 201,
+  	  "G": 136,
+  	  "B": 44
+  	},
+  	"Lab": {
+  	  "l": 61.83,
+  	  "A": 17.16,
+  	  "B": 56.21
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Desert Yellow",
+  	"Rgb": {
+  	  "R": 196,
+  	  "G": 159,
+  	  "B": 45
+  	},
+  	"Lab": {
+  	  "l": 67.07,
+  	  "A": 2.49,
+  	  "B": 60.54
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Moon Dust",
+  	"Rgb": {
+  	  "R": 233,
+  	  "G": 212,
+  	  "B": 105
+  	},
+  	"Lab": {
+  	  "l": 84.71,
+  	  "A": -5.88,
+  	  "B": 54.78
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Arid Earth",
+  	"Rgb": {
+  	  "R": 251,
+  	  "G": 239,
+  	  "B": 197
+  	},
+  	"Lab": {
+  	  "l": 94.43,
+  	  "A": -2.47,
+  	  "B": 21.8
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Babe Blonde",
+  	"Rgb": {
+  	  "R": 255,
+  	  "G": 219,
+  	  "B": 17
+  	},
+  	"Lab": {
+  	  "l": 87.95,
+  	  "A": -3.8,
+  	  "B": 86.34
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Daemonic Yellow",
+  	"Rgb": {
+  	  "R": 251,
+  	  "G": 215,
+  	  "B": 5
+  	},
+  	"Lab": {
+  	  "l": 86.56,
+  	  "A": -3.59,
+  	  "B": 86.28
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Phoenix Flames",
+  	"Rgb": {
+  	  "R": 246,
+  	  "G": 162,
+  	  "B": 28
+  	},
+  	"Lab": {
+  	  "l": 73.23,
+  	  "A": 22.04,
+  	  "B": 73.01
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Fire Lizard",
+  	"Rgb": {
+  	  "R": 214,
+  	  "G": 114,
+  	  "B": 39
+  	},
+  	"Lab": {
+  	  "l": 58.49,
+  	  "A": 34.27,
+  	  "B": 55.72
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Lava Orange",
+  	"Rgb": {
+  	  "R": 223,
+  	  "G": 73,
+  	  "B": 38
+  	},
+  	"Lab": {
+  	  "l": 52.5,
+  	  "A": 56.74,
+  	  "B": 51.29
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Mythical Orange",
+  	"Rgb": {
+  	  "R": 225,
+  	  "G": 47,
+  	  "B": 37
+  	},
+  	"Lab": {
+  	  "l": 49.71,
+  	  "A": 66.07,
+  	  "B": 49.39
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Mars Red",
+  	"Rgb": {
+  	  "R": 182,
+  	  "G": 59,
+  	  "B": 54
+  	},
+  	"Lab": {
+  	  "l": 43.27,
+  	  "A": 49.28,
+  	  "B": 30.9
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Pure Red",
+  	"Rgb": {
+  	  "R": 203,
+  	  "G": 32,
+  	  "B": 40
+  	},
+  	"Lab": {
+  	  "l": 44.06,
+  	  "A": 63.7,
+  	  "B": 40.94
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Dragon Red",
+  	"Rgb": {
+  	  "R": 153,
+  	  "G": 29,
+  	  "B": 31
+  	},
+  	"Lab": {
+  	  "l": 33.46,
+  	  "A": 49.77,
+  	  "B": 31.95
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Abomination Gore",
+  	"Rgb": {
+  	  "R": 160,
+  	  "G": 49,
+  	  "B": 38
+  	},
+  	"Lab": {
+  	  "l": 37.5,
+  	  "A": 45.16,
+  	  "B": 32.6
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Vampire Red",
+  	"Rgb": {
+  	  "R": 152,
+  	  "G": 27,
+  	  "B": 41
+  	},
+  	"Lab": {
+  	  "l": 33.18,
+  	  "A": 50.45,
+  	  "B": 25.45
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Chaotic Red",
+  	"Rgb": {
+  	  "R": 109,
+  	  "G": 33,
+  	  "B": 17
+  	},
+  	"Lab": {
+  	  "l": 24.89,
+  	  "A": 32.86,
+  	  "B": 28.48
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Crusted Sore",
+  	"Rgb": {
+  	  "R": 98,
+  	  "G": 26,
+  	  "B": 29
+  	},
+  	"Lab": {
+  	  "l": 21.67,
+  	  "A": 32.52,
+  	  "B": 16.72
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Wasteland Soil",
+  	"Rgb": {
+  	  "R": 118,
+  	  "G": 74,
+  	  "B": 87
+  	},
+  	"Lab": {
+  	  "l": 36.81,
+  	  "A": 20.66,
+  	  "B": 0.15
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Grimoire Purple",
+  	"Rgb": {
+  	  "R": 122,
+  	  "G": 86,
+  	  "B": 86
+  	},
+  	"Lab": {
+  	  "l": 40.35,
+  	  "A": 14.94,
+  	  "B": 5.94
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Dark Stone",
+  	"Rgb": {
+  	  "R": 93,
+  	  "G": 88,
+  	  "B": 82
+  	},
+  	"Lab": {
+  	  "l": 37.69,
+  	  "A": 0.83,
+  	  "B": 4.19
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Cultist Robe",
+  	"Rgb": {
+  	  "R": 118,
+  	  "G": 115,
+  	  "B": 100
+  	},
+  	"Lab": {
+  	  "l": 48.3,
+  	  "A": -1.65,
+  	  "B": 8.72
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Werewolf Fur",
+  	"Rgb": {
+  	  "R": 121,
+  	  "G": 100,
+  	  "B": 83
+  	},
+  	"Lab": {
+  	  "l": 43.95,
+  	  "A": 5.68,
+  	  "B": 12.8
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Banshee Brown",
+  	"Rgb": {
+  	  "R": 201,
+  	  "G": 184,
+  	  "B": 158
+  	},
+  	"Lab": {
+  	  "l": 75.56,
+  	  "A": 1.87,
+  	  "B": 15.41
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Brainmatter Beige",
+  	"Rgb": {
+  	  "R": 243,
+  	  "G": 244,
+  	  "B": 228
+  	},
+  	"Lab": {
+  	  "l": 95.73,
+  	  "A": -3.07,
+  	  "B": 7.58
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Spaceship Exterior",
+  	"Rgb": {
+  	  "R": 214,
+  	  "G": 216,
+  	  "B": 215
+  	},
+  	"Lab": {
+  	  "l": 86.16,
+  	  "A": -0.85,
+  	  "B": 0.24
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Stone Golem",
+  	"Rgb": {
+  	  "R": 194,
+  	  "G": 195,
+  	  "B": 189
+  	},
+  	"Lab": {
+  	  "l": 78.56,
+  	  "A": -1.43,
+  	  "B": 2.88
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Matt White",
+  	"Rgb": {
+  	  "R": 255,
+  	  "G": 255,
+  	  "B": 255
+  	},
+  	"Lab": {
+  	  "l": 100,
+  	  "A": 0.01,
+  	  "B": -0.01
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Ash Grey",
+  	"Rgb": {
+  	  "R": 164,
+  	  "G": 165,
+  	  "B": 160
+  	},
+  	"Lab": {
+  	  "l": 67.53,
+  	  "A": -1.29,
+  	  "B": 2.45
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Mutant Hue",
+  	"Rgb": {
+  	  "R": 173,
+  	  "G": 139,
+  	  "B": 140
+  	},
+  	"Lab": {
+  	  "l": 61,
+  	  "A": 13.03,
+  	  "B": 4.35
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Oozing Purple",
+  	"Rgb": {
+  	  "R": 179,
+  	  "G": 156,
+  	  "B": 184
+  	},
+  	"Lab": {
+  	  "l": 67.14,
+  	  "A": 13.59,
+  	  "B": -11.35
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Orc Blood",
+  	"Rgb": {
+  	  "R": 145,
+  	  "G": 76,
+  	  "B": 123
+  	},
+  	"Lab": {
+  	  "l": 42.18,
+  	  "A": 35.47,
+  	  "B": -13.82
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Alien Purple",
+  	"Rgb": {
+  	  "R": 72,
+  	  "G": 41,
+  	  "B": 111
+  	},
+  	"Lab": {
+  	  "l": 24.04,
+  	  "A": 30.15,
+  	  "B": -35.4
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Warlock Purple",
+  	"Rgb": {
+  	  "R": 170,
+  	  "G": 58,
+  	  "B": 106
+  	},
+  	"Lab": {
+  	  "l": 42.17,
+  	  "A": 50.04,
+  	  "B": -2.95
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Pixie Pink",
+  	"Rgb": {
+  	  "R": 215,
+  	  "G": 124,
+  	  "B": 131
+  	},
+  	"Lab": {
+  	  "l": 62.08,
+  	  "A": 36.02,
+  	  "B": 11.69
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Centaur Skin",
+  	"Rgb": {
+  	  "R": 226,
+  	  "G": 177,
+  	  "B": 163
+  	},
+  	"Lab": {
+  	  "l": 76.23,
+  	  "A": 15.81,
+  	  "B": 13.98
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Scar Tissue",
+  	"Rgb": {
+  	  "R": 206,
+  	  "G": 140,
+  	  "B": 116
+  	},
+  	"Lab": {
+  	  "l": 64.27,
+  	  "A": 22.29,
+  	  "B": 23
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Tanned Flesh",
+  	"Rgb": {
+  	  "R": 189,
+  	  "G": 112,
+  	  "B": 82
+  	},
+  	"Lab": {
+  	  "l": 55.09,
+  	  "A": 27.47,
+  	  "B": 29.61
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Fur Brown",
+  	"Rgb": {
+  	  "R": 161,
+  	  "G": 59,
+  	  "B": 34
+  	},
+  	"Lab": {
+  	  "l": 39.28,
+  	  "A": 40.95,
+  	  "B": 36.77
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Troll Claws",
+  	"Rgb": {
+  	  "R": 205,
+  	  "G": 136,
+  	  "B": 59
+  	},
+  	"Lab": {
+  	  "l": 62.43,
+  	  "A": 19.55,
+  	  "B": 50.52
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Barbarian Flesh",
+  	"Rgb": {
+  	  "R": 232,
+  	  "G": 155,
+  	  "B": 87
+  	},
+  	"Lab": {
+  	  "l": 70.38,
+  	  "A": 22.29,
+  	  "B": 46.74
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Kobold Skin",
+  	"Rgb": {
+  	  "R": 206,
+  	  "G": 172,
+  	  "B": 137
+  	},
+  	"Lab": {
+  	  "l": 72.52,
+  	  "A": 7.35,
+  	  "B": 22.64
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Elven Flesh",
+  	"Rgb": {
+  	  "R": 248,
+  	  "G": 189,
+  	  "B": 145
+  	},
+  	"Lab": {
+  	  "l": 80.96,
+  	  "A": 15.75,
+  	  "B": 30.44
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Corpse Pale",
+  	"Rgb": {
+  	  "R": 241,
+  	  "G": 208,
+  	  "B": 177
+  	},
+  	"Lab": {
+  	  "l": 85.5,
+  	  "A": 6.98,
+  	  "B": 19.67
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Toxic Boils",
+  	"Rgb": {
+  	  "R": 168,
+  	  "G": 109,
+  	  "B": 127
+  	},
+  	"Lab": {
+  	  "l": 52.72,
+  	  "A": 26.04,
+  	  "B": -0.19
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Skeleton Bone",
+  	"Rgb": {
+  	  "R": 213,
+  	  "G": 200,
+  	  "B": 155
+  	},
+  	"Lab": {
+  	  "l": 80.64,
+  	  "A": -2.4,
+  	  "B": 24.19
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Mummy Robes",
+  	"Rgb": {
+  	  "R": 234,
+  	  "G": 221,
+  	  "B": 213
+  	},
+  	"Lab": {
+  	  "l": 88.93,
+  	  "A": 3.1,
+  	  "B": 5.5
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Drake Tooth",
+  	"Rgb": {
+  	  "R": 212,
+  	  "G": 210,
+  	  "B": 187
+  	},
+  	"Lab": {
+  	  "l": 83.8,
+  	  "A": -3.24,
+  	  "B": 11.65
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Necrotic Flesh",
+  	"Rgb": {
+  	  "R": 185,
+  	  "G": 193,
+  	  "B": 142
+  	},
+  	"Lab": {
+  	  "l": 76.32,
+  	  "A": -11.25,
+  	  "B": 24.82
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Combat Fatigues",
+  	"Rgb": {
+  	  "R": 133,
+  	  "G": 141,
+  	  "B": 92
+  	},
+  	"Lab": {
+  	  "l": 56.89,
+  	  "A": -11.28,
+  	  "B": 25.21
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Venom Wyrm",
+  	"Rgb": {
+  	  "R": 104,
+  	  "G": 102,
+  	  "B": 63
+  	},
+  	"Lab": {
+  	  "l": 42.47,
+  	  "A": -5.74,
+  	  "B": 22.34
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Filthy Cape",
+  	"Rgb": {
+  	  "R": 126,
+  	  "G": 121,
+  	  "B": 92
+  	},
+  	"Lab": {
+  	  "l": 50.55,
+  	  "A": -3.09,
+  	  "B": 16.63
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Crypt Wraith",
+  	"Rgb": {
+  	  "R": 94,
+  	  "G": 95,
+  	  "B": 77
+  	},
+  	"Lab": {
+  	  "l": 39.75,
+  	  "A": -3.88,
+  	  "B": 10.19
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Elf Green",
+  	"Rgb": {
+  	  "R": 76,
+  	  "G": 82,
+  	  "B": 36
+  	},
+  	"Lab": {
+  	  "l": 33.35,
+  	  "A": -10.18,
+  	  "B": 25.89
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Commando Green",
+  	"Rgb": {
+  	  "R": 133,
+  	  "G": 127,
+  	  "B": 53
+  	},
+  	"Lab": {
+  	  "l": 52.31,
+  	  "A": -7.82,
+  	  "B": 40.15
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Witch Brew",
+  	"Rgb": {
+  	  "R": 145,
+  	  "G": 149,
+  	  "B": 62
+  	},
+  	"Lab": {
+  	  "l": 59.76,
+  	  "A": -13.67,
+  	  "B": 44.46
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Scaly Hide",
+  	"Rgb": {
+  	  "R": 130,
+  	  "G": 148,
+  	  "B": 62
+  	},
+  	"Lab": {
+  	  "l": 58.3,
+  	  "A": -19.58,
+  	  "B": 42.49
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Goblin Green",
+  	"Rgb": {
+  	  "R": 63,
+  	  "G": 146,
+  	  "B": 66
+  	},
+  	"Lab": {
+  	  "l": 54.04,
+  	  "A": -42.22,
+  	  "B": 34.61
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Kraken Skin",
+  	"Rgb": {
+  	  "R": 114,
+  	  "G": 191,
+  	  "B": 135
+  	},
+  	"Lab": {
+  	  "l": 71.27,
+  	  "A": -35.97,
+  	  "B": 20.97
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Greenskin",
+  	"Rgb": {
+  	  "R": 15,
+  	  "G": 103,
+  	  "B": 53
+  	},
+  	"Lab": {
+  	  "l": 37.95,
+  	  "A": -36.94,
+  	  "B": 21.35
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Angel Green",
+  	"Rgb": {
+  	  "R": 21,
+  	  "G": 53,
+  	  "B": 29
+  	},
+  	"Lab": {
+  	  "l": 19.2,
+  	  "A": -18.35,
+  	  "B": 11.64
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Mouldy Clothes",
+  	"Rgb": {
+  	  "R": 62,
+  	  "G": 122,
+  	  "B": 62
+  	},
+  	"Lab": {
+  	  "l": 46.03,
+  	  "A": -32.79,
+  	  "B": 26.86
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Army Green",
+  	"Rgb": {
+  	  "R": 85,
+  	  "G": 115,
+  	  "B": 53
+  	},
+  	"Lab": {
+  	  "l": 44.87,
+  	  "A": -22.31,
+  	  "B": 30.56
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Snake Scales",
+  	"Rgb": {
+  	  "R": 139,
+  	  "G": 176,
+  	  "B": 60
+  	},
+  	"Lab": {
+  	  "l": 67.18,
+  	  "A": -29.88,
+  	  "B": 53.27
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Jungle Green",
+  	"Rgb": {
+  	  "R": 141,
+  	  "G": 169,
+  	  "B": 66
+  	},
+  	"Lab": {
+  	  "l": 65.3,
+  	  "A": -25.23,
+  	  "B": 48.69
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Poisonous Cloud",
+  	"Rgb": {
+  	  "R": 208,
+  	  "G": 218,
+  	  "B": 43
+  	},
+  	"Lab": {
+  	  "l": 83.82,
+  	  "A": -22.6,
+  	  "B": 76.57
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Gun Metal (Metal)",
+  	"Rgb": {
+  	  "R": 97,
+  	  "G": 96,
+  	  "B": 94
+  	},
+  	"Lab": {
+  	  "l": 40.76,
+  	  "A": -0.01,
+  	  "B": 1.27
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Chainmail Silver (Metal)",
+  	"Rgb": {
+  	  "R": 110,
+  	  "G": 110,
+  	  "B": 108
+  	},
+  	"Lab": {
+  	  "l": 46.38,
+  	  "A": -0.4,
+  	  "B": 1.11
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Shining Silver (Metal)",
+  	"Rgb": {
+  	  "R": 147,
+  	  "G": 147,
+  	  "B": 145
+  	},
+  	"Lab": {
+  	  "l": 60.88,
+  	  "A": -0.38,
+  	  "B": 1.05
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Weapon Bronze (Metal)",
+  	"Rgb": {
+  	  "R": 221,
+  	  "G": 109,
+  	  "B": 43
+  	},
+  	"Lab": {
+  	  "l": 58.49,
+  	  "A": 39.74,
+  	  "B": 54.44
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "True Copper (Metal)",
+  	"Rgb": {
+  	  "R": 220,
+  	  "G": 125,
+  	  "B": 59
+  	},
+  	"Lab": {
+  	  "l": 61.83,
+  	  "A": 31.72,
+  	  "B": 50.47
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Greedy Gold (Metal)",
+  	"Rgb": {
+  	  "R": 251,
+  	  "G": 169,
+  	  "B": 70
+  	},
+  	"Lab": {
+  	  "l": 75.65,
+  	  "A": 21.79,
+  	  "B": 61.05
+  	}
+  },
+  {
+  	"Brand": "Army Painter",
+  	"Name": "Bright Gold (Metal)",
+  	"Rgb": {
+  	  "R": 234,
+  	  "G": 171,
+  	  "B": 32
+  	},
+  	"Lab": {
+  	  "l": 74.01,
+  	  "A": 12.27,
+  	  "B": 72.08
+  	}
+  }
+]

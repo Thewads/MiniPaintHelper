@@ -1,0 +1,32 @@
+name: build and test
+
+on:
+  push:
+    branches:
+        - main
+
+env:
+  DOTNET_VERSION: '6.0.x' # The .NET SDK version to use
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Setup .NET Core
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: ${{ env.DOTNET_VERSION }}
+
+    - name: Install dependencies
+      working-directory: MiniPaintHelper
+      run: dotnet restore
+      
+    - name: Build
+      working-directory: MiniPaintHelper
+      run: dotnet build --configuration Release --no-restore
+    
+    - name: Test
+      working-directory: MiniPaintHelper
+      run: dotnet test --no-restore --verbosity normal

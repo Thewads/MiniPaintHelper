@@ -1,0 +1,2509 @@
+[
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "White",
+  	"Rgb": {
+  	  "R": 255,
+  	  "G": 255,
+  	  "B": 255
+  	},
+  	"Lab": {
+  	  "l": 100,
+  	  "A": 0.01,
+  	  "B": -0.01
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Cold White",
+  	"Rgb": {
+  	  "R": 255,
+  	  "G": 255,
+  	  "B": 255
+  	},
+  	"Lab": {
+  	  "l": 100,
+  	  "A": 0.01,
+  	  "B": -0.01
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Gloss White",
+  	"Rgb": {
+  	  "R": 239,
+  	  "G": 240,
+  	  "B": 240
+  	},
+  	"Lab": {
+  	  "l": 94.72,
+  	  "A": -0.33,
+  	  "B": -0.13
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Off-White",
+  	"Rgb": {
+  	  "R": 230,
+  	  "G": 230,
+  	  "B": 216
+  	},
+  	"Lab": {
+  	  "l": 90.95,
+  	  "A": -2.42,
+  	  "B": 6.81
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Ivory",
+  	"Rgb": {
+  	  "R": 236,
+  	  "G": 236,
+  	  "B": 205
+  	},
+  	"Lab": {
+  	  "l": 92.68,
+  	  "A": -5.15,
+  	  "B": 15.05
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Light Flesh",
+  	"Rgb": {
+  	  "R": 247,
+  	  "G": 210,
+  	  "B": 191
+  	},
+  	"Lab": {
+  	  "l": 86.81,
+  	  "A": 10.1,
+  	  "B": 14.22
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Pale Sand",
+  	"Rgb": {
+  	  "R": 243,
+  	  "G": 209,
+  	  "B": 173
+  	},
+  	"Lab": {
+  	  "l": 85.84,
+  	  "A": 6.69,
+  	  "B": 22.27
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Beige",
+  	"Rgb": {
+  	  "R": 213,
+  	  "G": 180,
+  	  "B": 130
+  	},
+  	"Lab": {
+  	  "l": 75.08,
+  	  "A": 5.02,
+  	  "B": 29.93
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Sand Yellow",
+  	"Rgb": {
+  	  "R": 224,
+  	  "G": 178,
+  	  "B": 115
+  	},
+  	"Lab": {
+  	  "l": 75.41,
+  	  "A": 8.98,
+  	  "B": 38.41
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Light Yellow",
+  	"Rgb": {
+  	  "R": 247,
+  	  "G": 233,
+  	  "B": 99
+  	},
+  	"Lab": {
+  	  "l": 91.21,
+  	  "A": -11.13,
+  	  "B": 65.11
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Lemon Yellow",
+  	"Rgb": {
+  	  "R": 244,
+  	  "G": 237,
+  	  "B": 56
+  	},
+  	"Lab": {
+  	  "l": 91.72,
+  	  "A": -16.47,
+  	  "B": 81.08
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "German Yellow",
+  	"Rgb": {
+  	  "R": 191,
+  	  "G": 184,
+  	  "B": 125
+  	},
+  	"Lab": {
+  	  "l": 74.09,
+  	  "A": -6.47,
+  	  "B": 30.91
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Ice Yellow",
+  	"Rgb": {
+  	  "R": 244,
+  	  "G": 211,
+  	  "B": 144
+  	},
+  	"Lab": {
+  	  "l": 85.92,
+  	  "A": 2.62,
+  	  "B": 37.41
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Deep Yellow",
+  	"Rgb": {
+  	  "R": 251,
+  	  "G": 228,
+  	  "B": 45
+  	},
+  	"Lab": {
+  	  "l": 89.95,
+  	  "A": -9.47,
+  	  "B": 82.68
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Flat Yellow",
+  	"Rgb": {
+  	  "R": 252,
+  	  "G": 180,
+  	  "B": 66
+  	},
+  	"Lab": {
+  	  "l": 78.3,
+  	  "A": 16.27,
+  	  "B": 65.4
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Golden Yellow",
+  	"Rgb": {
+  	  "R": 250,
+  	  "G": 176,
+  	  "B": 90
+  	},
+  	"Lab": {
+  	  "l": 77.35,
+  	  "A": 18.78,
+  	  "B": 53.81
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Basic Skin Tone",
+  	"Rgb": {
+  	  "R": 240,
+  	  "G": 178,
+  	  "B": 152
+  	},
+  	"Lab": {
+  	  "l": 77.66,
+  	  "A": 19.24,
+  	  "B": 22.12
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Flat Flesh",
+  	"Rgb": {
+  	  "R": 220,
+  	  "G": 159,
+  	  "B": 123
+  	},
+  	"Lab": {
+  	  "l": 70.48,
+  	  "A": 18.32,
+  	  "B": 27.73
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Dark Flesh",
+  	"Rgb": {
+  	  "R": 210,
+  	  "G": 153,
+  	  "B": 102
+  	},
+  	"Lab": {
+  	  "l": 67.61,
+  	  "A": 15.46,
+  	  "B": 35.06
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Sunny Skin Tone",
+  	"Rgb": {
+  	  "R": 233,
+  	  "G": 169,
+  	  "B": 118
+  	},
+  	"Lab": {
+  	  "l": 74.19,
+  	  "A": 17.7,
+  	  "B": 35.5
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Medium Fleshtone",
+  	"Rgb": {
+  	  "R": 179,
+  	  "G": 130,
+  	  "B": 86
+  	},
+  	"Lab": {
+  	  "l": 58.25,
+  	  "A": 13.66,
+  	  "B": 31.13
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Light Orange",
+  	"Rgb": {
+  	  "R": 245,
+  	  "G": 136,
+  	  "B": 70
+  	},
+  	"Lab": {
+  	  "l": 67.62,
+  	  "A": 36.52,
+  	  "B": 52.41
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "German Orange",
+  	"Rgb": {
+  	  "R": 203,
+  	  "G": 130,
+  	  "B": 119
+  	},
+  	"Lab": {
+  	  "l": 61.65,
+  	  "A": 26.87,
+  	  "B": 17.69
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Bright Orange",
+  	"Rgb": {
+  	  "R": 242,
+  	  "G": 102,
+  	  "B": 51
+  	},
+  	"Lab": {
+  	  "l": 60.44,
+  	  "A": 51.24,
+  	  "B": 53.86
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Clear Orange",
+  	"Rgb": {
+  	  "R": 201,
+  	  "G": 80,
+  	  "B": 62
+  	},
+  	"Lab": {
+  	  "l": 50.1,
+  	  "A": 47.09,
+  	  "B": 35.16
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Scarlet",
+  	"Rgb": {
+  	  "R": 187,
+  	  "G": 70,
+  	  "B": 75
+  	},
+  	"Lab": {
+  	  "l": 46.25,
+  	  "A": 47.51,
+  	  "B": 22.26
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Orange Red",
+  	"Rgb": {
+  	  "R": 226,
+  	  "G": 76,
+  	  "B": 37
+  	},
+  	"Lab": {
+  	  "l": 53.46,
+  	  "A": 56.51,
+  	  "B": 52.79
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Vermillion",
+  	"Rgb": {
+  	  "R": 211,
+  	  "G": 41,
+  	  "B": 43
+  	},
+  	"Lab": {
+  	  "l": 46.46,
+  	  "A": 63.85,
+  	  "B": 42.23
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Dark Vermillion",
+  	"Rgb": {
+  	  "R": 178,
+  	  "G": 63,
+  	  "B": 65
+  	},
+  	"Lab": {
+  	  "l": 43.36,
+  	  "A": 46.84,
+  	  "B": 24.28
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Carmine Red",
+  	"Rgb": {
+  	  "R": 179,
+  	  "G": 35,
+  	  "B": 44
+  	},
+  	"Lab": {
+  	  "l": 39.53,
+  	  "A": 56.29,
+  	  "B": 32.36
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Flat Red",
+  	"Rgb": {
+  	  "R": 163,
+  	  "G": 63,
+  	  "B": 64
+  	},
+  	"Lab": {
+  	  "l": 40.75,
+  	  "A": 41.47,
+  	  "B": 21.02
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Dark Red",
+  	"Rgb": {
+  	  "R": 134,
+  	  "G": 68,
+  	  "B": 84
+  	},
+  	"Lab": {
+  	  "l": 37.56,
+  	  "A": 30.01,
+  	  "B": 3.4
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Red",
+  	"Rgb": {
+  	  "R": 139,
+  	  "G": 38,
+  	  "B": 46
+  	},
+  	"Lab": {
+  	  "l": 31.97,
+  	  "A": 42.9,
+  	  "B": 20.19
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Burnt Red",
+  	"Rgb": {
+  	  "R": 94,
+  	  "G": 63,
+  	  "B": 63
+  	},
+  	"Lab": {
+  	  "l": 30.14,
+  	  "A": 13.56,
+  	  "B": 5.47
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Black Red",
+  	"Rgb": {
+  	  "R": 75,
+  	  "G": 55,
+  	  "B": 55
+  	},
+  	"Lab": {
+  	  "l": 25.27,
+  	  "A": 8.92,
+  	  "B": 3.46
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Beige Red",
+  	"Rgb": {
+  	  "R": 180,
+  	  "G": 131,
+  	  "B": 112
+  	},
+  	"Lab": {
+  	  "l": 59.07,
+  	  "A": 16.33,
+  	  "B": 17.7
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Salmon Rose",
+  	"Rgb": {
+  	  "R": 240,
+  	  "G": 168,
+  	  "B": 155
+  	},
+  	"Lab": {
+  	  "l": 75.39,
+  	  "A": 24.89,
+  	  "B": 17.37
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Brown Rose",
+  	"Rgb": {
+  	  "R": 175,
+  	  "G": 129,
+  	  "B": 136
+  	},
+  	"Lab": {
+  	  "l": 58.59,
+  	  "A": 18.8,
+  	  "B": 3.2
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Old Rose",
+  	"Rgb": {
+  	  "R": 216,
+  	  "G": 125,
+  	  "B": 124
+  	},
+  	"Lab": {
+  	  "l": 62.27,
+  	  "A": 35.09,
+  	  "B": 15.96
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Pink",
+  	"Rgb": {
+  	  "R": 191,
+  	  "G": 120,
+  	  "B": 178
+  	},
+  	"Lab": {
+  	  "l": 59.64,
+  	  "A": 36.53,
+  	  "B": -19.18
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Sunset Red",
+  	"Rgb": {
+  	  "R": 190,
+  	  "G": 68,
+  	  "B": 108
+  	},
+  	"Lab": {
+  	  "l": 47.19,
+  	  "A": 52.25,
+  	  "B": 3.55
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Magenta",
+  	"Rgb": {
+  	  "R": 194,
+  	  "G": 34,
+  	  "B": 45
+  	},
+  	"Lab": {
+  	  "l": 42.46,
+  	  "A": 60.9,
+  	  "B": 35.87
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Violet Red",
+  	"Rgb": {
+  	  "R": 104,
+  	  "G": 36,
+  	  "B": 65
+  	},
+  	"Lab": {
+  	  "l": 25.52,
+  	  "A": 33.5,
+  	  "B": -2.35
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Purple",
+  	"Rgb": {
+  	  "R": 111,
+  	  "G": 88,
+  	  "B": 131
+  	},
+  	"Lab": {
+  	  "l": 41.21,
+  	  "A": 18.34,
+  	  "B": -20.54
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Royal Purple",
+  	"Rgb": {
+  	  "R": 83,
+  	  "G": 66,
+  	  "B": 99
+  	},
+  	"Lab": {
+  	  "l": 30.96,
+  	  "A": 14.55,
+  	  "B": -16.68
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Blue Violet",
+  	"Rgb": {
+  	  "R": 110,
+  	  "G": 106,
+  	  "B": 176
+  	},
+  	"Lab": {
+  	  "l": 47.95,
+  	  "A": 18.84,
+  	  "B": -36.79
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Violet",
+  	"Rgb": {
+  	  "R": 75,
+  	  "G": 67,
+  	  "B": 110
+  	},
+  	"Lab": {
+  	  "l": 30.96,
+  	  "A": 14.14,
+  	  "B": -23.74
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Dark Sea Blue",
+  	"Rgb": {
+  	  "R": 62,
+  	  "G": 69,
+  	  "B": 76
+  	},
+  	"Lab": {
+  	  "l": 28.91,
+  	  "A": -1.12,
+  	  "B": -5.18
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Oxford Blue",
+  	"Rgb": {
+  	  "R": 78,
+  	  "G": 81,
+  	  "B": 114
+  	},
+  	"Lab": {
+  	  "l": 35.44,
+  	  "A": 7.2,
+  	  "B": -19.26
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Dark Prussian Blue",
+  	"Rgb": {
+  	  "R": 13,
+  	  "G": 40,
+  	  "B": 60
+  	},
+  	"Lab": {
+  	  "l": 15.11,
+  	  "A": -2.32,
+  	  "B": -15.79
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Prussian Blue",
+  	"Rgb": {
+  	  "R": 64,
+  	  "G": 93,
+  	  "B": 123
+  	},
+  	"Lab": {
+  	  "l": 38.46,
+  	  "A": -1.86,
+  	  "B": -20.23
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Blue",
+  	"Rgb": {
+  	  "R": 26,
+  	  "G": 53,
+  	  "B": 102
+  	},
+  	"Lab": {
+  	  "l": 22.74,
+  	  "A": 8.33,
+  	  "B": -31.87
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Dark Blue",
+  	"Rgb": {
+  	  "R": 57,
+  	  "G": 102,
+  	  "B": 159
+  	},
+  	"Lab": {
+  	  "l": 42.58,
+  	  "A": 3.12,
+  	  "B": -35.51
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Royal Blue",
+  	"Rgb": {
+  	  "R": 49,
+  	  "G": 98,
+  	  "B": 151
+  	},
+  	"Lab": {
+  	  "l": 40.61,
+  	  "A": 1.27,
+  	  "B": -33.87
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Ultramarine",
+  	"Rgb": {
+  	  "R": 49,
+  	  "G": 93,
+  	  "B": 167
+  	},
+  	"Lab": {
+  	  "l": 40.03,
+  	  "A": 10.39,
+  	  "B": -44.32
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Flat Blue",
+  	"Rgb": {
+  	  "R": 72,
+  	  "G": 108,
+  	  "B": 159
+  	},
+  	"Lab": {
+  	  "l": 45.09,
+  	  "A": 2.57,
+  	  "B": -31.5
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Medium Blue",
+  	"Rgb": {
+  	  "R": 43,
+  	  "G": 99,
+  	  "B": 134
+  	},
+  	"Lab": {
+  	  "l": 39.85,
+  	  "A": -6.57,
+  	  "B": -24.85
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Field Blue",
+  	"Rgb": {
+  	  "R": 87,
+  	  "G": 101,
+  	  "B": 114
+  	},
+  	"Lab": {
+  	  "l": 42.07,
+  	  "A": -2.16,
+  	  "B": -9.08
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "French Mirage Blue",
+  	"Rgb": {
+  	  "R": 91,
+  	  "G": 103,
+  	  "B": 117
+  	},
+  	"Lab": {
+  	  "l": 43.08,
+  	  "A": -1.22,
+  	  "B": -9.37
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Intermediate Blue",
+  	"Rgb": {
+  	  "R": 97,
+  	  "G": 108,
+  	  "B": 120
+  	},
+  	"Lab": {
+  	  "l": 45.113,
+  	  "A": -1.37,
+  	  "B": -8.08
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Grey Blue",
+  	"Rgb": {
+  	  "R": 108,
+  	  "G": 131,
+  	  "B": 159
+  	},
+  	"Lab": {
+  	  "l": 53.95,
+  	  "A": -1.35,
+  	  "B": -17.63
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Azure",
+  	"Rgb": {
+  	  "R": 103,
+  	  "G": 136,
+  	  "B": 188
+  	},
+  	"Lab": {
+  	  "l": 56.21,
+  	  "A": 2.46,
+  	  "B": -30.82
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Pastel Blue",
+  	"Rgb": {
+  	  "R": 101,
+  	  "G": 134,
+  	  "B": 153
+  	},
+  	"Lab": {
+  	  "l": 54.15,
+  	  "A": -6.77,
+  	  "B": -13.89
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Pale Blue",
+  	"Rgb": {
+  	  "R": 142,
+  	  "G": 165,
+  	  "B": 167
+  	},
+  	"Lab": {
+  	  "l": 66.1,
+  	  "A": -7.55,
+  	  "B": -3.74
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Andrea Blue",
+  	"Rgb": {
+  	  "R": 31,
+  	  "G": 151,
+  	  "B": 199
+  	},
+  	"Lab": {
+  	  "l": 58.55,
+  	  "A": -14.63,
+  	  "B": -33.59
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Deep Sky Blue",
+  	"Rgb": {
+  	  "R": 45,
+  	  "G": 176,
+  	  "B": 223
+  	},
+  	"Lab": {
+  	  "l": 67.23,
+  	  "A": -18.59,
+  	  "B": -33.42
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Sky Blue",
+  	"Rgb": {
+  	  "R": 97,
+  	  "G": 201,
+  	  "B": 240
+  	},
+  	"Lab": {
+  	  "l": 76.44,
+  	  "A": -18.99,
+  	  "B": -28.33
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Light Turquoise",
+  	"Rgb": {
+  	  "R": 29,
+  	  "G": 148,
+  	  "B": 165
+  	},
+  	"Lab": {
+  	  "l": 56.25,
+  	  "A": -24.87,
+  	  "B": -17.86
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Turquoise",
+  	"Rgb": {
+  	  "R": 44,
+  	  "G": 108,
+  	  "B": 127
+  	},
+  	"Lab": {
+  	  "l": 42.45,
+  	  "A": -14.08,
+  	  "B": -16.6
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Blue Green",
+  	"Rgb": {
+  	  "R": 26,
+  	  "G": 160,
+  	  "B": 163
+  	},
+  	"Lab": {
+  	  "l": 59.89,
+  	  "A": -31.69,
+  	  "B": -11.21
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Emerald",
+  	"Rgb": {
+  	  "R": 16,
+  	  "G": 140,
+  	  "B": 104
+  	},
+  	"Lab": {
+  	  "l": 51.69,
+  	  "A": -40.28,
+  	  "B": 10.52
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Deep Green",
+  	"Rgb": {
+  	  "R": 49,
+  	  "G": 99,
+  	  "B": 82
+  	},
+  	"Lab": {
+  	  "l": 38.17,
+  	  "A": -21.44,
+  	  "B": 4.49
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Park Green Flat",
+  	"Rgb": {
+  	  "R": 24,
+  	  "G": 125,
+  	  "B": 98
+  	},
+  	"Lab": {
+  	  "l": 46.64,
+  	  "A": -34.61,
+  	  "B": 6.88
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Intermediate Green",
+  	"Rgb": {
+  	  "R": 67,
+  	  "G": 146,
+  	  "B": 77
+  	},
+  	"Lab": {
+  	  "l": 54.33,
+  	  "A": -39.51,
+  	  "B": 29.29
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Light Green",
+  	"Rgb": {
+  	  "R": 67,
+  	  "G": 154,
+  	  "B": 107
+  	},
+  	"Lab": {
+  	  "l": 57.43,
+  	  "A": -37.45,
+  	  "B": 16.97
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Green Sky",
+  	"Rgb": {
+  	  "R": 129,
+  	  "G": 156,
+  	  "B": 130
+  	},
+  	"Lab": {
+  	  "l": 61.7,
+  	  "A": -14.69,
+  	  "B": 10.52
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Lime Green",
+  	"Rgb": {
+  	  "R": 134,
+  	  "G": 146,
+  	  "B": 78
+  	},
+  	"Lab": {
+  	  "l": 58.2,
+  	  "A": -15.26,
+  	  "B": 34.43
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Yellow Green",
+  	"Rgb": {
+  	  "R": 191,
+  	  "G": 215,
+  	  "B": 75
+  	},
+  	"Lab": {
+  	  "l": 81.94,
+  	  "A": -26.6,
+  	  "B": 63.78
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Golden Olive",
+  	"Rgb": {
+  	  "R": 122,
+  	  "G": 127,
+  	  "B": 78
+  	},
+  	"Lab": {
+  	  "l": 51.69,
+  	  "A": -10.09,
+  	  "B": 26.02
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "German Camo Bright Green",
+  	"Rgb": {
+  	  "R": 90,
+  	  "G": 111,
+  	  "B": 82
+  	},
+  	"Lab": {
+  	  "l": 44.45,
+  	  "A": -13.81,
+  	  "B": 13.65
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Medium Olive",
+  	"Rgb": {
+  	  "R": 41,
+  	  "G": 110,
+  	  "B": 55
+  	},
+  	"Lab": {
+  	  "l": 41.06,
+  	  "A": -34.56,
+  	  "B": 24.29
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Olive Green",
+  	"Rgb": {
+  	  "R": 92,
+  	  "G": 108,
+  	  "B": 76
+  	},
+  	"Lab": {
+  	  "l": 43.54,
+  	  "A": -12.38,
+  	  "B": 15.98
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Flat Green",
+  	"Rgb": {
+  	  "R": 69,
+  	  "G": 90,
+  	  "B": 71
+  	},
+  	"Lab": {
+  	  "l": 36.05,
+  	  "A": -12.31,
+  	  "B": 8.4
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Uniform Green",
+  	"Rgb": {
+  	  "R": 86,
+  	  "G": 105,
+  	  "B": 77
+  	},
+  	"Lab": {
+  	  "l": 42.18,
+  	  "A": -12.95,
+  	  "B": 13.46
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "German Uniform",
+  	"Rgb": {
+  	  "R": 79,
+  	  "G": 97,
+  	  "B": 95
+  	},
+  	"Lab": {
+  	  "l": 39.64,
+  	  "A": -7.28,
+  	  "B": -1.14
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Luftwaffe Camo Green",
+  	"Rgb": {
+  	  "R": 67,
+  	  "G": 79,
+  	  "B": 71
+  	},
+  	"Lab": {
+  	  "l": 32.35,
+  	  "A": -6.6,
+  	  "B": 3.13
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Yellow Olive",
+  	"Rgb": {
+  	  "R": 73,
+  	  "G": 79,
+  	  "B": 73
+  	},
+  	"Lab": {
+  	  "l": 32.9,
+  	  "A": -3.74,
+  	  "B": 2.71
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Gunship Green",
+  	"Rgb": {
+  	  "R": 81,
+  	  "G": 97,
+  	  "B": 91
+  
+  	},
+  	"Lab": {
+  	  "l": 39.67,
+  	  "A": -7.46,
+  	  "B": 1.37
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Military Green",
+  	"Rgb": {
+  	  "R": 64,
+  	  "G": 70,
+  	  "B": 61
+  	},
+  	"Lab": {
+  	  "l": 28.92,
+  	  "A": -4.46,
+  	  "B": 4.59
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Refractive Green",
+  	"Rgb": {
+  	  "R": 80,
+  	  "G": 83,
+  	  "B": 70
+  	},
+  	"Lab": {
+  	  "l": 34.67,
+  	  "A": -3.88,
+  	  "B": 7.21
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Olive Brown",
+  	"Rgb": {
+  	  "R": 76,
+  	  "G": 75,
+  	  "B": 73
+  	},
+  	"Lab": {
+  	  "l": 31.92,
+  	  "A": -0.01,
+  	  "B": 1.33
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Olive Grey",
+  	"Rgb": {
+  	  "R": 79,
+  	  "G": 83,
+  	  "B": 74
+  	},
+  	"Lab": {
+  	  "l": 34.69,
+  	  "A": -3.51,
+  	  "B": 4.72
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "US Olive Drab",
+  	"Rgb": {
+  	  "R": 90,
+  	  "G": 87,
+  	  "B": 75
+  	},
+  	"Lab": {
+  	  "l": 36.93,
+  	  "A": -1.13,
+  	  "B": 7.41
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Russian uniform WWII",
+  	"Rgb": {
+  	  "R": 98,
+  	  "G": 96,
+  	  "B": 82
+  	},
+  	"Lab": {
+  	  "l": 40.53,
+  	  "A": -1.9,
+  	  "B": 8.29
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "US Dark Green",
+  	"Rgb": {
+  	  "R": 82,
+  	  "G": 85,
+  	  "B": 77
+  	},
+  	"Lab": {
+  	  "l": 35.65,
+  	  "A": -2.88,
+  	  "B": 4.25
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Camo Olive Green",
+  	"Rgb": {
+  	  "R": 77,
+  	  "G": 81,
+  	  "B": 72
+  	},
+  	"Lab": {
+  	  "l": 33.84,
+  	  "A": -3.53,
+  	  "B": 4.74
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "German Camo Dark Freen",
+  	"Rgb": {
+  	  "R": 69,
+  	  "G": 75,
+  	  "B": 73
+  	},
+  	"Lab": {
+  	  "l": 31.3,
+  	  "A": -2.89,
+  	  "B": 0.35
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Bronze Green",
+  	"Rgb": {
+  	  "R": 75,
+  	  "G": 80,
+  	  "B": 82
+  	},
+  	"Lab": {
+  	  "l": 33.65,
+  	  "A": -1.55,
+  	  "B": -1.87
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Black Green",
+  	"Rgb": {
+  	  "R": 59,
+  	  "G": 71,
+  	  "B": 68
+  	},
+  	"Lab": {
+  	  "l": 29.04,
+  	  "A": -5.55,
+  	  "B": 0.18
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Green Grey",
+  	"Rgb": {
+  	  "R": 113,
+  	  "G": 114,
+  	  "B": 106
+  	},
+  	"Lab": {
+  	  "l": 47.73,
+  	  "A": -1.96,
+  	  "B": 4.29
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "German Fieldgrey WWII",
+  	"Rgb": {
+  	  "R": 91,
+  	  "G": 93,
+  	  "B": 89
+  	},
+  	"Lab": {
+  	  "l": 39.2,
+  	  "A": -1.63,
+  	  "B": 2.01
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "German Camo Beige WWII",
+  	"Rgb": {
+  	  "R": 136,
+  	  "G": 131,
+  	  "B": 115
+  	},
+  	"Lab": {
+  	  "l": 54.77,
+  	  "A": -1.02,
+  	  "B": 9.32
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Stone Grey",
+  	"Rgb": {
+  	  "R": 152,
+  	  "G": 148,
+  	  "B": 134
+  	},
+  	"Lab": {
+  	  "l": 61.29,
+  	  "A": -1.07,
+  	  "B": 7.92
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Luftwaffe Uniform WWII",
+  	"Rgb": {
+  	  "R": 77,
+  	  "G": 89,
+  	  "B": 106
+  	},
+  	"Lab": {
+  	  "l": 37.41,
+  	  "A": -0.37,
+  	  "B": -11.28
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Green Grey",
+  	"Rgb": {
+  	  "R": 170,
+  	  "G": 176,
+  	  "B": 168
+  	},
+  	"Lab": {
+  	  "l": 71.16,
+  	  "A": -3.61,
+  	  "B": 3.35
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Light Green Blue",
+  	"Rgb": {
+  	  "R": 114,
+  	  "G": 157,
+  	  "B": 151
+  	},
+  	"Lab": {
+  	  "l": 61.59,
+  	  "A": -15.87,
+  	  "B": -1.59
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Light Sea Grey",
+  	"Rgb": {
+  	  "R": 149,
+  	  "G": 172,
+  	  "B": 175
+  	},
+  	"Lab": {
+  	  "l": 68.74,
+  	  "A": -7.29,
+  	  "B": -4.23
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Pastel Green",
+  	"Rgb": {
+  	  "R": 153,
+  	  "G": 162,
+  	  "B": 145
+  	},
+  	"Lab": {
+  	  "l": 65.48,
+  	  "A": -6.42,
+  	  "B": 7.74
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Deck Tan",
+  	"Rgb": {
+  	  "R": 168,
+  	  "G": 171,
+  	  "B": 164
+  	},
+  	"Lab": {
+  	  "l": 69.56,
+  	  "A": -2.37,
+  	  "B": 3.22
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Medium Grey",
+  	"Rgb": {
+  	  "R": 145,
+  	  "G": 136,
+  	  "B": 126
+  	},
+  	"Lab": {
+  	  "l": 57.21,
+  	  "A": 1.57,
+  	  "B": 6.57
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Yellow Green",
+  	"Rgb": {
+  	  "R": 111,
+  	  "G": 106,
+  	  "B": 72
+  	},
+  	"Lab": {
+  	  "l": 44.46,
+  	  "A": -3.77,
+  	  "B": 19.83
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Khaki Grey",
+  	"Rgb": {
+  	  "R": 125,
+  	  "G": 106,
+  	  "B": 78
+  	},
+  	"Lab": {
+  	  "l": 45.93,
+  	  "A": 3.18,
+  	  "B": 18.53
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Green Brown",
+  	"Rgb": {
+  	  "R": 125,
+  	  "G": 105,
+  	  "B": 73
+  	},
+  	"Lab": {
+  	  "l": 45.56,
+  	  "A": 3.12,
+  	  "B": 20.95
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Khaki",
+  	"Rgb": {
+  	  "R": 124,
+  	  "G": 117,
+  	  "B": 96
+  	},
+  	"Lab": {
+  	  "l": 49.32,
+  	  "A": -1.02,
+  	  "B": 12.57
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Dark Yellow",
+  	"Rgb": {
+  	  "R": 138,
+  	  "G": 129,
+  	  "B": 82
+  	},
+  	"Lab": {
+  	  "l": 53.72,
+  	  "A": -3.85,
+  	  "B": 26.7
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Japan Uniform WWII",
+  	"Rgb": {
+  	  "R": 151,
+  	  "G": 121,
+  	  "B": 67
+  	},
+  	"Lab": {
+  	  "l": 52.57,
+  	  "A": 4.82,
+  	  "B": 33.73
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Middlestone",
+  	"Rgb": {
+  	  "R": 139,
+  	  "G": 123,
+  	  "B": 85
+  	},
+  	"Lab": {
+  	  "l": 52.19,
+  	  "A": 0.33,
+  	  "B": 23.04
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Green Ochre",
+  	"Rgb": {
+  	  "R": 159,
+  	  "G": 130,
+  	  "B": 95
+  	},
+  	"Lab": {
+  	  "l": 56.25,
+  	  "A": 6.12,
+  	  "B": 23.13
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Buff",
+  	"Rgb": {
+  	  "R": 198,
+  	  "G": 170,
+  	  "B": 127
+  	},
+  	"Lab": {
+  	  "l": 71.07,
+  	  "A": 4.01,
+  	  "B": 25.95
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Yellow Ochre",
+  	"Rgb": {
+  	  "R": 189,
+  	  "G": 143,
+  	  "B": 84
+  	},
+  	"Lab": {
+  	  "l": 62.6,
+  	  "A": 10.54,
+  	  "B": 37.83
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Tan Yellow",
+  	"Rgb": {
+  	  "R": 185,
+  	  "G": 148,
+  	  "B": 113
+  	},
+  	"Lab": {
+  	  "l": 63.91,
+  	  "A": 9.04,
+  	  "B": 23.77
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Dark Sand",
+  	"Rgb": {
+  	  "R": 202,
+  	  "G": 172,
+  	  "B": 131
+  	},
+  	"Lab": {
+  	  "l": 72.03,
+  	  "A": 5.02,
+  	  "B": 25.15
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Iraqi Sand",
+  	"Rgb": {
+  	  "R": 182,
+  	  "G": 153,
+  	  "B": 125
+  	},
+  	"Lab": {
+  	  "l": 65.13,
+  	  "A": 6.58,
+  	  "B": 18.74
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Desert Yellow",
+  	"Rgb": {
+  	  "R": 174,
+  	  "G": 139,
+  	  "B": 103
+  	},
+  	"Lab": {
+  	  "l": 60.29,
+  	  "A": 8.31,
+  	  "B": 24.29
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Gold Brown",
+  	"Rgb": {
+  	  "R": 174,
+  	  "G": 130,
+  	  "B": 77
+  	},
+  	"Lab": {
+  	  "l": 57.56,
+  	  "A": 10.71,
+  	  "B": 35.02
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Ochre Brown",
+  	"Rgb": {
+  	  "R": 167,
+  	  "G": 116,
+  	  "B": 51
+  	},
+  	"Lab": {
+  	  "l": 52.89,
+  	  "A": 13.64,
+  	  "B": 42.78
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "German Camo Orange Ochre",
+  	"Rgb": {
+  	  "R": 153,
+  	  "G": 121,
+  	  "B": 81
+  	},
+  	"Lab": {
+  	  "l": 52.99,
+  	  "A": 7.07,
+  	  "B": 26.62
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Light Brown",
+  	"Rgb": {
+  	  "R": 174,
+  	  "G": 139,
+  	  "B": 103
+  	},
+  	"Lab": {
+  	  "l": 60.29,
+  	  "A": 8.31,
+  	  "B": 24.29
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Amaranth Red",
+  	"Rgb": {
+  	  "R": 186,
+  	  "G": 88,
+  	  "B": 67
+  	},
+  	"Lab": {
+  	  "l": 49.28,
+  	  "A": 37.91,
+  	  "B": 30.77
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Orange Brown",
+  	"Rgb": {
+  	  "R": 181,
+  	  "G": 109,
+  	  "B": 65
+  	},
+  	"Lab": {
+  	  "l": 53.11,
+  	  "A": 24.52,
+  	  "B": 36.3
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Brown Sand",
+  	"Rgb": {
+  	  "R": 151,
+  	  "G": 117,
+  	  "B": 99
+  	},
+  	"Lab": {
+  	  "l": 52.07,
+  	  "A": 10.68,
+  	  "B": 15.04
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Cork Brown",
+  	"Rgb": {
+  	  "R": 160,
+  	  "G": 118,
+  	  "B": 93
+  	},
+  	"Lab": {
+  	  "l": 53.19,
+  	  "A": 13.12,
+  	  "B": 20.2
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Tan Earth",
+  	"Rgb": {
+  	  "R": 136,
+  	  "G": 113,
+  	  "B": 94
+  	},
+  	"Lab": {
+  	  "l": 49.32,
+  	  "A": 6.01,
+  	  "B": 13.92
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Marrón Beige",
+  	"Rgb": {
+  	  "R": 138,
+  	  "G": 117,
+  	  "B": 99
+  	},
+  	"Lab": {
+  	  "l": 50.72,
+  	  "A": 5.26,
+  	  "B": 12.97
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Red Leather",
+  	"Rgb": {
+  	  "R": 135,
+  	  "G": 87,
+  	  "B": 69
+  	},
+  	"Lab": {
+  	  "l": 41.84,
+  	  "A": 17.69,
+  	  "B": 18.62
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Cavalry Brown",
+  	"Rgb": {
+  	  "R": 125,
+  	  "G": 52,
+  	  "B": 50
+  	},
+  	"Lab": {
+  	  "l": 31.91,
+  	  "A": 31.56,
+  	  "B": 17.04
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Saddle Brown",
+  	"Rgb": {
+  	  "R": 107,
+  	  "G": 83,
+  	  "B": 80
+  	},
+  	"Lab": {
+  	  "l": 37.65,
+  	  "A": 9.47,
+  	  "B": 5.57
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Mahogany Brown",
+  	"Rgb": {
+  	  "R": 108,
+  	  "G": 82,
+  	  "B": 77
+  	},
+  	"Lab": {
+  	  "l": 37.41,
+  	  "A": 10.03,
+  	  "B": 7.11
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Flat Brown",
+  	"Rgb": {
+  	  "R": 89,
+  	  "G": 69,
+  	  "B": 63
+  	},
+  	"Lab": {
+  	  "l": 31.21,
+  	  "A": 7.55,
+  	  "B": 6.89
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "English Uniform",
+  	"Rgb": {
+  	  "R": 106,
+  	  "G": 90,
+  	  "B": 68
+  	},
+  	"Lab": {
+  	  "l": 39.23,
+  	  "A": 2.94,
+  	  "B": 15.14
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "US Field Drab",
+  	"Rgb": {
+  	  "R": 116,
+  	  "G": 99,
+  	  "B": 82
+  	},
+  	"Lab": {
+  	  "l": 43.13,
+  	  "A": 3.97,
+  	  "B": 12.19
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Flat Earth",
+  	"Rgb": {
+  	  "R": 108,
+  	  "G": 86,
+  	  "B": 66
+  	},
+  	"Lab": {
+  	  "l": 38.26,
+  	  "A": 5.98,
+  	  "B": 15.09
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "German Camo Pale Brown",
+  	"Rgb": {
+  	  "R": 119,
+  	  "G": 101,
+  	  "B": 91
+  	},
+  	"Lab": {
+  	  "l": 44.21,
+  	  "A": 5.47,
+  	  "B": 8.32
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "German Camo Medium Brown",
+  	"Rgb": {
+  	  "R": 91,
+  	  "G": 79,
+  	  "B": 66
+  	},
+  	"Lab": {
+  	  "l": 34.42,
+  	  "A": 2.67,
+  	  "B": 9.52
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Hull Red",
+  	"Rgb": {
+  	  "R": 72,
+  	  "G": 33,
+  	  "B": 26
+  	},
+  	"Lab": {
+  	  "l": 18.1,
+  	  "A": 17.82,
+  	  "B": 13.22
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Leather Brown",
+  	"Rgb": {
+  	  "R": 86,
+  	  "G": 78,
+  	  "B": 72
+  	},
+  	"Lab": {
+  	  "l": 33.76,
+  	  "A": 2.15,
+  	  "B": 4.75
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Burnt Umber",
+  	"Rgb": {
+  	  "R": 84,
+  	  "G": 78,
+  	  "B": 71
+  	},
+  	"Lab": {
+  	  "l": 33.54,
+  	  "A": 1.1,
+  	  "B": 5.03
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Chocolate Brown",
+  	"Rgb": {
+  	  "R": 80,
+  	  "G": 74,
+  	  "B": 65
+  	},
+  	"Lab": {
+  	  "l": 31.77,
+  	  "A": 0.75,
+  	  "B": 6.28
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "German Camo Black Brown",
+  	"Rgb": {
+  	  "R": 68,
+  	  "G": 65,
+  	  "B": 66
+  	},
+  	"Lab": {
+  	  "l": 27.85,
+  	  "A": 1.49,
+  	  "B": -0.16
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "White Grey",
+  	"Rgb": {
+  	  "R": 233,
+  	  "G": 235,
+  	  "B": 236
+  	},
+  	"Lab": {
+  	  "l": 92.93,
+  	  "A": -0.48,
+  	  "B": -0.73
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Silvergrey",
+  	"Rgb": {
+  	  "R": 192,
+  	  "G": 190,
+  	  "B": 182
+  	},
+  	"Lab": {
+  	  "l": 76.93,
+  	  "A": -0.74,
+  	  "B": 4.27
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Pale Grey Blue",
+  	"Rgb": {
+  	  "R": 153,
+  	  "G": 173,
+  	  "B": 181
+  	},
+  	"Lab": {
+  	  "l": 69.47,
+  	  "A": -5.22,
+  	  "B": -6.45
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Sky Grey",
+  	"Rgb": {
+  	  "R": 155,
+  	  "G": 160,
+  	  "B": 167
+  	},
+  	"Lab": {
+  	  "l": 65.67,
+  	  "A": -0.38,
+  	  "B": -4.26
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Light Grey",
+  	"Rgb": {
+  	  "R": 135,
+  	  "G": 143,
+  	  "B": 156
+  	},
+  	"Lab": {
+  	  "l": 59.16,
+  	  "A": -0.14,
+  	  "B": -7.87
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Blue Grey Pale",
+  	"Rgb": {
+  	  "R": 122,
+  	  "G": 134,
+  	  "B": 144
+  	},
+  	"Lab": {
+  	  "l": 55.28,
+  	  "A": -2.18,
+  	  "B": -6.85
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Dark Blue Grey",
+  	"Rgb": {
+  	  "R": 105,
+  	  "G": 129,
+  	  "B": 138
+  	},
+  	"Lab": {
+  	  "l": 52.44,
+  	  "A": -6.48,
+  	  "B": -7.72
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Medium Sea Grey",
+  	"Rgb": {
+  	  "R": 124,
+  	  "G": 130,
+  	  "B": 136
+  	},
+  	"Lab": {
+  	  "l": 54.06,
+  	  "A": -0.96,
+  	  "B": 46.67
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Dark Sea Grey",
+  	"Rgb": {
+  	  "R": 117,
+  	  "G": 121,
+  	  "B": 128
+  	},
+  	"Lab": {
+  	  "l": 50.7,
+  	  "A": -0.02,
+  	  "B": -4.34
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Neutral Grey",
+  	"Rgb": {
+  	  "R": 102,
+  	  "G": 111,
+  	  "B": 121
+  	},
+  	"Lab": {
+  	  "l": 46.41,
+  	  "A": -1.14,
+  	  "B": -6.7
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "London Grey",
+  	"Rgb": {
+  	  "R": 95,
+  	  "G": 105,
+  	  "B": 116
+  	},
+  	"Lab": {
+  	  "l": 43.94,
+  	  "A": -1.26,
+  	  "B": -7.44
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Basalt Grey",
+  	"Rgb": {
+  	  "R": 97,
+  	  "G": 104,
+  	  "B": 113
+  	},
+  	"Lab": {
+  	  "l": 43.7,
+  	  "A": -0.65,
+  	  "B": -5.96
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Dark Sea Green",
+  	"Rgb": {
+  	  "R": 80,
+  	  "G": 88,
+  	  "B": 100
+  	},
+  	"Lab": {
+  	  "l": 37.12,
+  	  "A": -0.26,
+  	  "B": -7.97
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Dark Blue Grey",
+  	"Rgb": {
+  	  "R": 68,
+  	  "G": 81,
+  	  "B": 75
+  	},
+  	"Lab": {
+  	  "l": 33.18,
+  	  "A": -6.52,
+  	  "B": 1.8
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Grey Green",
+  	"Rgb": {
+  	  "R": 85,
+  	  "G": 90,
+  	  "B": 96
+  	},
+  	"Lab": {
+  	  "l": 38,
+  	  "A": -0.61,
+  	  "B": -4.13
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Dark Grey",
+  	"Rgb": {
+  	  "R": 72,
+  	  "G": 80,
+  	  "B": 87
+  	},
+  	"Lab": {
+  	  "l": 33.57,
+  	  "A": -1.5,
+  	  "B": -5.19
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "German Grey",
+  	"Rgb": {
+  	  "R": 64,
+  	  "G": 69,
+  	  "B": 78
+  	},
+  	"Lab": {
+  	  "l": 29.15,
+  	  "A": 0.15,
+  	  "B": -6.1
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Black Grey",
+  	"Rgb": {
+  	  "R": 66,
+  	  "G": 73,
+  	  "B": 77
+  	},
+  	"Lab": {
+  	  "l": 30.54,
+  	  "A": -1.87,
+  	  "B": -3.36
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Black",
+  	"Rgb": {
+  	  "R": 34,
+  	  "G": 42,
+  	  "B": 46
+  	},
+  	"Lab": {
+  	  "l": 16.47,
+  	  "A": -2.36,
+  	  "B": -3.77
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Glossy Black",
+  	"Rgb": {
+  	  "R": 9,
+  	  "G": 8,
+  	  "B": 10
+  	},
+  	"Lab": {
+  	  "l": 2.29,
+  	  "A": 0.54,
+  	  "B": -0.67
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Silver (Metal)",
+  	"Rgb": {
+  	  "R": 194,
+  	  "G": 205,
+  	  "B": 205
+  	},
+  	"Lab": {
+  	  "l": 81.593,
+  	  "A": -3.73,
+  	  "B": -1.3
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Gold (Metal)",
+  	"Rgb": {
+  	  "R": 199,
+  	  "G": 171,
+  	  "B": 91
+  	},
+  	"Lab": {
+  	  "l": 70.89,
+  	  "A": 0.2,
+  	  "B": 44.48
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Old Gold (Metal)",
+  	"Rgb": {
+  	  "R": 147,
+  	  "G": 129,
+  	  "B": 81
+  	},
+  	"Lab": {
+  	  "l": 54.55,
+  	  "A": -0.07,
+  	  "B": 28.49
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Brass (Metal)",
+  	"Rgb": {
+  	  "R": 143,
+  	  "G": 108,
+  	  "B": 54
+  	},
+  	"Lab": {
+  	  "l": 48.05,
+  	  "A": 7.6,
+  	  "B": 35.07
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Bronze (Metal)",
+  	"Rgb": {
+  	  "R": 112,
+  	  "G": 106,
+  	  "B": 60
+  	},
+  	"Lab": {
+  	  "l": 44.35,
+  	  "A": -4.82,
+  	  "B": 26.58
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Copper (Metal)",
+  	"Rgb": {
+  	  "R": 35,
+  	  "G": 31,
+  	  "B": 32
+  	},
+  	"Lab": {
+  	  "l": 12.23,
+  	  "A": 2.14,
+  	  "B": 0.01
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Oily Steel (Metal)",
+  	"Rgb": {
+  	  "R": 110,
+  	  "G": 113,
+  	  "B": 119
+  	},
+  	"Lab": {
+  	  "l": 47.57,
+  	  "A": 0.14,
+  	  "B": -3.72
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Natural Steel (Metal)",
+  	"Rgb": {
+  	  "R": 129,
+  	  "G": 133,
+  	  "B": 132
+  	},
+  	"Lab": {
+  	  "l": 55.18,
+  	  "A": -1.68,
+  	  "B": 0.02
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Gunmetal Grey (Metal)",
+  	"Rgb": {
+  	  "R": 95,
+  	  "G": 101,
+  	  "B": 99
+  	},
+  	"Lab": {
+  	  "l": 42.22,
+  	  "A": -2.74,
+  	  "B": 0.32
+  	}
+  },
+  {
+  	"Brand": "Vallejo Model Color",
+  	"Name": "Gunmetal Blue (Metal)",
+  	"Rgb": {
+  	  "R": 48,
+  	  "G": 76,
+  	  "B": 95
+  	},
+  	"Lab": {
+  	  "l": 30.93,
+  	  "A": -4.68,
+  	  "B": -14.42
+  	}
+  }
+]

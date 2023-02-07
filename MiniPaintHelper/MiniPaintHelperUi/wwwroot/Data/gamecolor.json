@@ -1,0 +1,1094 @@
+[
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Dead White",
+  	"Rgb": {
+  	  "R": 255,
+  	  "G": 255,
+  	  "B": 255
+  	},
+  	"Lab": {
+  	  "l": 100,
+  	  "A": 0.01,
+  	  "B": -0.01
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Pale Flesh",
+  	"Rgb": {
+  	  "R": 233,
+  	  "G": 183,
+  	  "B": 162
+  	},
+  	"Lab": {
+  	  "l": 78.34,
+  	  "A": 15.14,
+  	  "B": 17.59
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Elf Skin Tone",
+  	"Rgb": {
+  	  "R": 219,
+  	  "G": 157,
+  	  "B": 117
+  	},
+  	"Lab": {
+  	  "l": 69.79,
+  	  "A": 18.39,
+  	  "B": 30.04
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Moon Yellow",
+  	"Rgb": {
+  	  "R": 247,
+  	  "G": 225,
+  	  "B": 7
+  	},
+  	"Lab": {
+  	  "l": 88.75,
+  	  "A": -10.28,
+  	  "B": 87.54
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Sun Yellow",
+  	"Rgb": {
+  	  "R": 254,
+  	  "G": 211,
+  	  "B": 4
+  	},
+  	"Lab": {
+  	  "l": 85.84,
+  	  "A": -0.29,
+  	  "B": 85.98
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Gold Yellow",
+  	"Rgb": {
+  	  "R": 254,
+  	  "G": 194,
+  	  "B": 16
+  	},
+  	"Lab": {
+  	  "l": 81.67,
+  	  "A": 8.54,
+  	  "B": 81.81
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Orange Fire",
+  	"Rgb": {
+  	  "R": 240,
+  	  "G": 106,
+  	  "B": 39
+  	},
+  	"Lab": {
+  	  "l": 60.76,
+  	  "A": 48.31,
+  	  "B": 59.2
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Hot Orange",
+  	"Rgb": {
+  	  "R": 240,
+  	  "G": 84,
+  	  "B": 50
+  	},
+  	"Lab": {
+  	  "l": 57.17,
+  	  "A": 58.31,
+  	  "B": 51.03
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Bloody Red",
+  	"Rgb": {
+  	  "R": 191,
+  	  "G": 34,
+  	  "B": 61
+  	},
+  	"Lab": {
+  	  "l": 42.09,
+  	  "A": 60.74,
+  	  "B": 25.64
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Gory Red",
+  	"Rgb": {
+  	  "R": 110,
+  	  "G": 58,
+  	  "B": 62
+  	},
+  	"Lab": {
+  	  "l": 31.09,
+  	  "A": 23.34,
+  	  "B": 7.78
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Scarlet Red",
+  	"Rgb": {
+  	  "R": 153,
+  	  "G": 26,
+  	  "B": 51
+  	},
+  	"Lab": {
+  	  "l": 33.46,
+  	  "A": 51.53,
+  	  "B": 19.43
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Squid Pink",
+  	"Rgb": {
+  	  "R": 203,
+  	  "G": 132,
+  	  "B": 185
+  	},
+  	"Lab": {
+  	  "l": 63.92,
+  	  "A": 35.26,
+  	  "B": -16.53
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Warlord Purple",
+  	"Rgb": {
+  	  "R": 176,
+  	  "G": 47,
+  	  "B": 125
+  	},
+  	"Lab": {
+  	  "l": 42.37,
+  	  "A": 58.25,
+  	  "B": -14.3
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Hexed Lichen",
+  	"Rgb": {
+  	  "R": 85,
+  	  "G": 54,
+  	  "B": 141
+  	},
+  	"Lab": {
+  	  "l": 30.62,
+  	  "A": 34.08,
+  	  "B": -43.59
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Royal Purple",
+  	"Rgb": {
+  	  "R": 71,
+  	  "G": 68,
+  	  "B": 101
+  	},
+  	"Lab": {
+  	  "l": 30.43,
+  	  "A": 9.59,
+  	  "B": -18.88
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Stormy Blue",
+  	"Rgb": {
+  	  "R": 63,
+  	  "G": 65,
+  	  "B": 93
+  	},
+  	"Lab": {
+  	  "l": 28.45,
+  	  "A": 6.54,
+  	  "B": -16.87
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Night Blue",
+  	"Rgb": {
+  	  "R": 55,
+  	  "G": 55,
+  	  "B": 71
+  	},
+  	"Lab": {
+  	  "l": 23.67,
+  	  "A": 4.07,
+  	  "B": -9.84
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Imperial Blue",
+  	"Rgb": {
+  	  "R": 54,
+  	  "G": 74,
+  	  "B": 103
+  	},
+  	"Lab": {
+  	  "l": 31.02,
+  	  "A": 0.93,
+  	  "B": -19.34
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Magic Blue",
+  	"Rgb": {
+  	  "R": 11,
+  	  "G": 114,
+  	  "B": 186
+  	},
+  	"Lab": {
+  	  "l": 46.51,
+  	  "A": 0.86,
+  	  "B": -45.15
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Ultramarine Blue",
+  	"Rgb": {
+  	  "R": 42,
+  	  "G": 57,
+  	  "B": 96
+  	},
+  	"Lab": {
+  	  "l": 24.52,
+  	  "A": 6.61,
+  	  "B": -25.08
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Electric Blue",
+  	"Rgb": {
+  	  "R": 55,
+  	  "G": 150,
+  	  "B": 184
+  	},
+  	"Lab": {
+  	  "l": 58.12,
+  	  "A": -16.56,
+  	  "B": -25.75
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Turquoise",
+  	"Rgb": {
+  	  "R": 0,
+  	  "G": 112,
+  	  "B": 124
+  	},
+  	"Lab": {
+  	  "l": 42.83,
+  	  "A": -22.08,
+  	  "B": -14.29
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Foul Green",
+  	"Rgb": {
+  	  "R": 59,
+  	  "G": 163,
+  	  "B": 137
+  	},
+  	"Lab": {
+  	  "l": 60.72,
+  	  "A": -36.22,
+  	  "B": 4.75
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Jade green",
+  	"Rgb": {
+  	  "R": 0,
+  	  "G": 142,
+  	  "B": 117
+  	},
+  	"Lab": {
+  	  "l": 52.54,
+  	  "A": -38.6,
+  	  "B": 4.24
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Scurvy Green",
+  	"Rgb": {
+  	  "R": 38,
+  	  "G": 86,
+  	  "B": 83
+  	},
+  	"Lab": {
+  	  "l": 33.33,
+  	  "A": -17.07,
+  	  "B": -3.24
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Dark Green",
+  	"Rgb": {
+  	  "R": 51,
+  	  "G": 66,
+  	  "B": 61
+  	},
+  	"Lab": {
+  	  "l": 26.55,
+  	  "A": -7.28,
+  	  "B": 1.05
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Sick Green",
+  	"Rgb": {
+  	  "R": 73,
+  	  "G": 110,
+  	  "B": 85
+  	},
+  	"Lab": {
+  	  "l": 43.1,
+  	  "A": -18.98,
+  	  "B": 9.83
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Goblin Green",
+  	"Rgb": {
+  	  "R": 100,
+  	  "G": 111,
+  	  "B": 73
+  	},
+  	"Lab": {
+  	  "l": 45.02,
+  	  "A": -11.21,
+  	  "B": 19.83
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Camouflage Green",
+  	"Rgb": {
+  	  "R": 133,
+  	  "G": 119,
+  	  "B": 68
+  	},
+  	"Lab": {
+  	  "l": 50.21,
+  	  "A": -1.97,
+  	  "B": 29.89
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Scorpy Green",
+  	"Rgb": {
+  	  "R": 111,
+  	  "G": 171,
+  	  "B": 90
+  	},
+  	"Lab": {
+  	  "l": 64.36,
+  	  "A": -34.95,
+  	  "B": 35.53
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Livery Green",
+  	"Rgb": {
+  	  "R": 144,
+  	  "G": 202,
+  	  "B": 98
+  	},
+  	"Lab": {
+  	  "l": 75.48,
+  	  "A": -36.54,
+  	  "B": 45.6
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Bone White",
+  	"Rgb": {
+  	  "R": 203,
+  	  "G": 184,
+  	  "B": 147
+  	},
+  	"Lab": {
+  	  "l": 75.5,
+  	  "A": 1.08,
+  	  "B": 21.29
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Dead Flesh",
+  	"Rgb": {
+  	  "R": 171,
+  	  "G": 157,
+  	  "B": 115
+  	},
+  	"Lab": {
+  	  "l": 64.97,
+  	  "A": -1.37,
+  	  "B": 23.87
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Bronze Fleshtone",
+  	"Rgb": {
+  	  "R": 192,
+  	  "G": 130,
+  	  "B": 79
+  	},
+  	"Lab": {
+  	  "l": 59.65,
+  	  "A": 18.59,
+  	  "B": 36.97
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Filthy Brown",
+  	"Rgb": {
+  	  "R": 190,
+  	  "G": 127,
+  	  "B": 65
+  	},
+  	"Lab": {
+  	  "l": 58.52,
+  	  "A": 18.4,
+  	  "B": 42.84
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Scrofulous Brown",
+  	"Rgb": {
+  	  "R": 181,
+  	  "G": 119,
+  	  "B": 57
+  	},
+  	"Lab": {
+  	  "l": 55.39,
+  	  "A": 18.47,
+  	  "B": 43.05
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Plague Brown",
+  	"Rgb": {
+  	  "R": 206,
+  	  "G": 141,
+  	  "B": 41
+  	},
+  	"Lab": {
+  	  "l": 63.62,
+  	  "A": 16.5,
+  	  "B": 59.21
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Leather Brown",
+  	"Rgb": {
+  	  "R": 126,
+  	  "G": 97,
+  	  "B": 64
+  	},
+  	"Lab": {
+  	  "l": 43.29,
+  	  "A": 7.25,
+  	  "B": 23.27
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Dwarf Skin",
+  	"Rgb": {
+  	  "R": 212,
+  	  "G": 140,
+  	  "B": 108
+  	},
+  	"Lab": {
+  	  "l": 64.83,
+  	  "A": 23.88,
+  	  "B": 28.29
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Parasite Brown",
+  	"Rgb": {
+  	  "R": 157,
+  	  "G": 82,
+  	  "B": 35
+  	},
+  	"Lab": {
+  	  "l": 43.25,
+  	  "A": 27.57,
+  	  "B": 40.09
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Beastly Brown",
+  	"Rgb": {
+  	  "R": 111,
+  	  "G": 84,
+  	  "B": 65
+  	},
+  	"Lab": {
+  	  "l": 38.02,
+  	  "A": 8.41,
+  	  "B": 15.43
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Dark Fleshtone",
+  	"Rgb": {
+  	  "R": 89,
+  	  "G": 62,
+  	  "B": 58
+  	},
+  	"Lab": {
+  	  "l": 29.09,
+  	  "A": 11.21,
+  	  "B": 7.15
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Charred Brown",
+  	"Rgb": {
+  	  "R": 71,
+  	  "G": 62,
+  	  "B": 61
+  	},
+  	"Lab": {
+  	  "l": 27.08,
+  	  "A": 3.68,
+  	  "B": 2.03
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Ghost Grey",
+  	"Rgb": {
+  	  "R": 179,
+  	  "G": 194,
+  	  "B": 205
+  	},
+  	"Lab": {
+  	  "l": 77.62,
+  	  "A": -2.91,
+  	  "B": -7.27
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Wolf Grey",
+  	"Rgb": {
+  	  "R": 163,
+  	  "G": 185,
+  	  "B": 200
+  	},
+  	"Lab": {
+  	  "l": 73.97,
+  	  "A": -4.32,
+  	  "B": -10.11
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Sombre Grey",
+  	"Rgb": {
+  	  "R": 93,
+  	  "G": 107,
+  	  "B": 129
+  	},
+  	"Lab": {
+  	  "l": 44.84,
+  	  "A": 0.14,
+  	  "B": -13.92
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Stonewall Grey",
+  	"Rgb": {
+  	  "R": 151,
+  	  "G": 154,
+  	  "B": 159
+  	},
+  	"Lab": {
+  	  "l": 63.5,
+  	  "A": -0.09,
+  	  "B": -3
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Cold Grey",
+  	"Rgb": {
+  	  "R": 120,
+  	  "G": 121,
+  	  "B": 128
+  	},
+  	"Lab": {
+  	  "l": 50.95,
+  	  "A": 1.08,
+  	  "B": -3.95
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Black",
+  	"Rgb": {
+  	  "R": 0,
+  	  "G": 0,
+  	  "B": 0
+  	},
+  	"Lab": {
+  	  "l": 0,
+  	  "A": 0,
+  	  "B": 0
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Silver",
+  	"Rgb": {
+  	  "R": 155,
+  	  "G": 165,
+  	  "B": 173
+  	},
+  	"Lab": {
+  	  "l": 67.2,
+  	  "A": -1.89,
+  	  "B": -5.35
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Chainmail Silver",
+  	"Rgb": {
+  	  "R": 120,
+  	  "G": 121,
+  	  "B": 128
+  	},
+  	"Lab": {
+  	  "l": 50.95,
+  	  "A": 1.08,
+  	  "B": -3.95
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Gunmetal",
+  	"Rgb": {
+  	  "R": 96,
+  	  "G": 98,
+  	  "B": 105
+  	},
+  	"Lab": {
+  	  "l": 41.6,
+  	  "A": 0.75,
+  	  "B": -4.24
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Polished Gold",
+  	"Rgb": {
+  	  "R": 235,
+  	  "G": 168,
+  	  "B": 32
+  	},
+  	"Lab": {
+  	  "l": 73.4,
+  	  "A": 14.28,
+  	  "B": 71.63
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Glorious Gold",
+  	"Rgb": {
+  	  "R": 147,
+  	  "G": 107,
+  	  "B": 58
+  	},
+  	"Lab": {
+  	  "l": 48.29,
+  	  "A": 10.31,
+  	  "B": 33.34
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Bright Bronze",
+  	"Rgb": {
+  	  "R": 141,
+  	  "G": 101,
+  	  "B": 81
+  	},
+  	"Lab": {
+  	  "l": 46.4,
+  	  "A": 13.44,
+  	  "B": 17.69
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Brassy brass",
+  	"Rgb": {
+  	  "R": 125,
+  	  "G": 83,
+  	  "B": 59
+  	},
+  	"Lab": {
+  	  "l": 39.35,
+  	  "A": 14.61,
+  	  "B": 21.12
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Hammered Copper",
+  	"Rgb": {
+  	  "R": 114,
+  	  "G": 69,
+  	  "B": 55
+  	},
+  	"Lab": {
+  	  "l": 34.21,
+  	  "A": 17.69,
+  	  "B": 16.58
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Tinny Tin",
+  	"Rgb": {
+  	  "R": 72,
+  	  "G": 43,
+  	  "B": 43
+  	},
+  	"Lab": {
+  	  "l": 21.13,
+  	  "A": 13.47,
+  	  "B": 5.63
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Khaki",
+  	"Rgb": {
+  	  "R": 160,
+  	  "G": 152,
+  	  "B": 118
+  	},
+  	"Lab": {
+  	  "l": 62.71,
+  	  "A": -2.67,
+  	  "B": 18.99
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Earth",
+  	"Rgb": {
+  	  "R": 115,
+  	  "G": 95,
+  	  "B": 73
+  	},
+  	"Lab": {
+  	  "l": 41.71,
+  	  "A": 4.62,
+  	  "B": 15.63
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Desert Yellow",
+  	"Rgb": {
+  	  "R": 145,
+  	  "G": 131,
+  	  "B": 77
+  	},
+  	"Lab": {
+  	  "l": 54.85,
+  	  "A": -2.5,
+  	  "B": 31.01
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Yellow Olive",
+  	"Rgb": {
+  	  "R": 74,
+  	  "G": 84,
+  	  "B": 45
+  	},
+  	"Lab": {
+  	  "l": 33.95,
+  	  "A": -11.18,
+  	  "B": 21.44
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Terracotta",
+  	"Rgb": {
+  	  "R": 98,
+  	  "G": 60,
+  	  "B": 58
+  	},
+  	"Lab": {
+  	  "l": 29.75,
+  	  "A": 16.47,
+  	  "B": 8.24
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Tan",
+  	"Rgb": {
+  	  "R": 162,
+  	  "G": 91,
+  	  "B": 82
+  	},
+  	"Lab": {
+  	  "l": 46.67,
+  	  "A": 28.06,
+  	  "B": 17.93
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Cayman Green",
+  	"Rgb": {
+  	  "R": 87,
+  	  "G": 87,
+  	  "B": 71
+  	},
+  	"Lab": {
+  	  "l": 36.55,
+  	  "A": -3.13,
+  	  "B": 9.32
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Smokey Ink",
+  	"Rgb": {
+  	  "R": 42,
+  	  "G": 34,
+  	  "B": 35
+  	},
+  	"Lab": {
+  	  "l": 14.16,
+  	  "A": 4.02,
+  	  "B": 0.74
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Glacier Blue",
+  	"Rgb": {
+  	  "R": 163,
+  	  "G": 195,
+  	  "B": 230
+  	},
+  	"Lab": {
+  	  "l": 77.6,
+  	  "A": -2.78,
+  	  "B": -20.9
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Verdigris",
+  	"Rgb": {
+  	  "R": 150,
+  	  "G": 213,
+  	  "B": 208
+  	},
+  	"Lab": {
+  	  "l": 81.09,
+  	  "A": -20.97,
+  	  "B": -3.96
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Pale Yellow",
+  	"Rgb": {
+  	  "R": 230,
+  	  "G": 201,
+  	  "B": 127
+  	},
+  	"Lab": {
+  	  "l": 81.91,
+  	  "A": 0.49,
+  	  "B": 40.63
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Elfic Flesh",
+  	"Rgb": {
+  	  "R": 228,
+  	  "G": 207,
+  	  "B": 177
+  	},
+  	"Lab": {
+  	  "l": 84.12,
+  	  "A": 2.65,
+  	  "B": 17.58
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Cadmium Skin",
+  	"Rgb": {
+  	  "R": 248,
+  	  "G": 171,
+  	  "B": 129
+  	},
+  	"Lab": {
+  	  "l": 76.48,
+  	  "A": 23.62,
+  	  "B": 32.97
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Rosy Flesh",
+  	"Rgb": {
+  	  "R": 238,
+  	  "G": 145,
+  	  "B": 136
+  	},
+  	"Lab": {
+  	  "l": 69.62,
+  	  "A": 34.13,
+  	  "B": 19.79
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Off White",
+  	"Rgb": {
+  	  "R": 251,
+  	  "G": 239,
+  	  "B": 211
+  	},
+  	"Lab": {
+  	  "l": 94.72,
+  	  "A": -0.44,
+  	  "B": 14.99
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Steel Grey",
+  	"Rgb": {
+  	  "R": 69,
+  	  "G": 104,
+  	  "B": 127
+  	},
+  	"Lab": {
+  	  "l": 42.3,
+  	  "A": -5.93,
+  	  "B": -16.72
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Fluorescent Yellow",
+  	"Rgb": {
+  	  "R": 216,
+  	  "G": 224,
+  	  "B": 58
+  	},
+  	"Lab": {
+  	  "l": 86.11,
+  	  "A": -21.63,
+  	  "B": 74.56
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Fluorescent Green",
+  	"Rgb": {
+  	  "R": 99,
+  	  "G": 188,
+  	  "B": 82
+  	},
+  	"Lab": {
+  	  "l": 68.92,
+  	  "A": -47.15,
+  	  "B": 44.85
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Mutation Green",
+  	"Rgb": {
+  	  "R": 62,
+  	  "G": 87,
+  	  "B": 70
+  	},
+  	"Lab": {
+  	  "l": 34.56,
+  	  "A": -13.48,
+  	  "B": 6.87
+  	}
+  },
+  {
+  	"Brand": "Vallejo Game Color",
+  	"Name": "Scarlet Blood",
+  	"Rgb": {
+  	  "R": 193,
+  	  "G": 72,
+  	  "B": 73
+  	},
+  	"Lab": {
+  	  "l": 47.56,
+  	  "A": 48.55,
+  	  "B": 25.36
+  	}
+  }
+]
