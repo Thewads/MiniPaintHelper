@@ -1,0 +1,36 @@
+﻿@page "/RawData"
+@using Services
+@using Services.Models
+@inject IPaintService PaintService
+
+<MudContainer>
+    <MudText Typo="Typo.h4" Align="Align.Center" GutterBottom="true" class="mt-10">Raw Data</MudText>
+    <MudText Typo="Typo.body1" Align="Align.Center" GutterBottom="true">You can find all the raw data stored about the paints in the table below</MudText>
+    <MudDivider class="mb-10"></MudDivider>
+    
+    
+    <MudTable Items="_paintData" Breakpoint="Breakpoint.Sm" Virtualize="true" FixedHeader="true">
+        <HeaderContent>
+            <MudTh>Brand</MudTh>
+            <MudTh>Name</MudTh>
+            <MudTh>RGB</MudTh>
+            <MudTh>Lab</MudTh>
+        </HeaderContent>
+        <RowTemplate>
+            <MudTd DataLabel="Brand">@context.Brand</MudTd>
+            <MudTd DataLabel="Name">@context.Name</MudTd>
+            <MudTd DataLabel="RGB">(@context.Rgb.R, @context.Rgb.G, @context.Rgb.B)</MudTd>
+            <MudTd DataLabel="Lab">(@context.Lab.L, @context.Lab.A, @context.Lab.B)</MudTd>
+        </RowTemplate>
+    </MudTable>
+    
+</MudContainer>
+
+@code {
+    IList<Paint> _paintData = new List<Paint>();
+    
+    protected override async Task OnInitializedAsync()
+    {
+        _paintData = await PaintService.GetAllPaints();
+    }
+}

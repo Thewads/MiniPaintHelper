@@ -18,4 +18,9 @@ public class PaintService : IPaintService
 
         return allPaints.Where(x => x.Name.Contains(searchTerm, StringComparison.InvariantCultureIgnoreCase)).ToList();
     }
+
+    public Task<IList<Paint>> GetAllPaints()
+    {
+        return _paintProvider.RetrieveAllPaints();
+    }
 }
