@@ -6,20 +6,29 @@
 
 <MudLayout>
     <MudAppBar Elevation="1">
-        <a href="/">
-            <img style="height:4rem;" src="images/logo-low-res.png" alt="Mini Paint Helper Logo"/>
-        </a>
+        <MudIconButton Icon="@Icons.Material.Filled.Menu" Color="Color.Inherit" Edge="Edge.Start" OnClick="@ToggleDrawer" />
+        @if (!_menuOpen)
+        {
+            <LogoLink/>
+        }
         <MudSpacer/>
         <MudIconButton Icon="@Icons.Custom.Brands.GitHub" Color="Color.Inherit" Link="https://github.com/Thewads/MiniPaintHelper" Target="_blank"/>
     </MudAppBar>
+    <MudDrawer @bind-Open="@_menuOpen" Elevation="1">
+        <MudDrawerHeader>
+            <LogoLink />
+        </MudDrawerHeader>
+        <NavMenuContent />
+    </MudDrawer>
     <MudMainContent>
             @Body
     </MudMainContent>
 </MudLayout>
 
 @code {
-    private bool _isDarkMode;
-    private MudThemeProvider _mudThemeProvider = default!;
+    bool _isDarkMode;
+    bool _menuOpen = true;
+    MudThemeProvider _mudThemeProvider = default!;
     
     protected override async Task OnAfterRenderAsync(bool firstRender)
     {
@@ -28,5 +37,10 @@
             _isDarkMode = await _mudThemeProvider.GetSystemPreference();
             StateHasChanged();
         }
+    }
+    
+    void ToggleDrawer()
+    {
+        _menuOpen = !_menuOpen;
     }
 }

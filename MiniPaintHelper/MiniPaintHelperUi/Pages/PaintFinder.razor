@@ -1,0 +1,137 @@
+﻿@page "/paintfinder"
+@using MudBlazor.Utilities
+@using Services
+@using Services.Models
+@inject IColorService ColorService
+@inject IPaintService PaintService
+@inject IBrandService BrandService
+
+<MudContainer>
+    
+    <MudText Typo="Typo.h4" Align="Align.Center" GutterBottom="true" class="mt-10">Paint Finder</MudText>
+    <MudText Typo="Typo.body1" Align="Align.Center" GutterBottom="true">Select mode of operation to get the type of search you want</MudText>
+    <MudText Typo="Typo.body1" Align="Align.Center" GutterBottom="true">Then select a paint from the search menu, or select a color using the picker, and get results returned in table on right</MudText>
+    <MudDivider class="mb-10"></MudDivider>
+    
+    
+    
+    <MudGrid>
+        <MudItem xs="12">
+            <MudStack Justify="Justify.Center" AlignItems="AlignItems.Center">
+                <MudChipSet @bind-SelectedChip="_selectedMode" SelectedValuesChanged="SelectedValuesChanged" Filter="true" Mandatory="true">
+                    <MudChip Text="Closest" Default="true"></MudChip>
+                    <MudChip Text="Contrasting"></MudChip>
+                </MudChipSet>
+            </MudStack>
+        </MudItem>
+        <MudItem xs="12" sm="6" md="6">
+            <MudPaper Elevation="2" Class="pa-4" style="min-height:470px;">
+                <MudStack Justify="Justify.Center" AlignItems="AlignItems.Center">
+                    <MudAutocomplete T="Paint"
+                                     Label="Paint Name"
+                                     SearchFunc="@SearchForPaint"
+                                     ValueChanged="@SearchValueChanged"
+                                     Clearable="true"
+                                     ToStringFunc="@(e => e.Name + " - " + e.Brand)"
+                                     ResetValueOnEmptyText="true"
+                                     Style="width: 300px"
+                                     AdornmentIcon="@Icons.Material.Filled.Search" AdornmentColor="Color.Primary"/>
+
+                    <MudColorPicker @ref="_colorPicker"
+                                    class="object-center"
+                                    PickerVariant="PickerVariant.Static"
+                                    DisableAlpha="true"
+                                    DisablePreview="true"
+                                    ValueChanged="GetPaintsFromColor"/>
+                </MudStack>
+            </MudPaper>
+        </MudItem>
+        <MudItem xs="12" sm="6" md="6">
+            <MudPaper Elevation="2" Class="pa-4 pt-7" style="min-height:470px;">
+                <MudStack Justify="Justify.Center" AlignItems="AlignItems.Center">
+                    <MudChipSet @bind-SelectedChips="_selectedBrandFilters"
+                                SelectedValuesChanged="SelectedValuesChanged" MultiSelection="true" Filter="true">
+                        @foreach (var brand in Brands)
+                        {
+                            <MudChip Text="@brand" Default="true"></MudChip>
+                        }
+                    </MudChipSet>
+                    <MudSimpleTable Style="width: 90%">
+                        <thead>
+                        <tr>
+                            <th>Brand</th>
+                            <th>Name</th>
+                            <th>Sample</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        @foreach (var paint in ReturnedPaints)
+                        {
+                            <tr>
+                                <td>@paint.Brand</td>
+                                <td>@paint.Name</td>
+                                <td style="background-color: rgb(@paint.Rgb.R, @paint.Rgb.G, @paint.Rgb.B)"></td>
+                            </tr>
+                        }
+                        </tbody>
+                    </MudSimpleTable>
+                </MudStack>
+            </MudPaper>
+        </MudItem>
+    </MudGrid>
+</MudContainer>
+
+
+@code {
+
+    private IList<Paint> ReturnedPaints { get; set; } = new List<Paint>();
+    private IList<string> Brands { get; set; } = new List<string>();
+
+    private MudChip[] _selectedBrandFilters = Array.Empty<MudChip>();
+    private MudColorPicker _colorPicker = default!;
+    private MudColor _selectedColor = default!;
+    private MudChip _selectedMode = default!;
+
+    protected override async Task OnInitializedAsync()
+    {
+        Brands = await BrandService.GetBrands();
+        _selectedBrandFilters = new MudChip[Brands.Count];
+    }
+    
+    private async void GetPaintsFromColor(MudColor? selectedColor)
+    {
+        if (selectedColor == null) return;
+        
+        _selectedColor = selectedColor;
+        if(_selectedMode.Text == "Closest")
+            ReturnedPaints = await ColorService.GetClosestPaints(selectedColor.R, selectedColor.G, selectedColor.B, _selectedBrandFilters.Select(x => x.Text).ToList());
+        else
+            ReturnedPaints = await ColorService.GetContrastingPaints(selectedColor.R, selectedColor.G, selectedColor.B, _selectedBrandFilters.Select(x => x.Text).ToList());
+        StateHasChanged();
+    }
+
+    private async Task<IEnumerable<Paint>> SearchForPaint(string searchTerm)
+    {
+        if (string.IsNullOrEmpty(searchTerm))
+        {
+            return new List<Paint>();
+        }
+        
+        var result = await PaintService.GetPaint(searchTerm);
+
+        return !result.Any() ? new List<Paint>() : result;
+    }
+
+    private void SearchValueChanged(Paint? newValue)
+    {
+        if (newValue == null) return;
+        _colorPicker.SetR(newValue.Rgb.R);
+        _colorPicker.SetG(newValue.Rgb.G);
+        _colorPicker.SetB(newValue.Rgb.B);
+    }
+
+    private void SelectedValuesChanged()
+    {
+        GetPaintsFromColor(_selectedColor);
+    }
+}
