@@ -1,0 +1,744 @@
+[
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Bold Titanium White",
+    "Rgb": {
+      "R": 249,
+      "G": 250,
+      "B": 252
+    },
+    "Lab": {
+      "L": 98.25,
+      "A": 0.03,
+      "B": -1.08
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Coal Black",
+    "Rgb": {
+      "R": 0,
+      "G": 0,
+      "B": 0
+    },
+    "Lab": {
+      "L": 0.0,
+      "A": 0.0,
+      "B": 0.0
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Bold Pyrrole Red",
+    "Rgb": {
+      "R": 207,
+      "G": 32,
+      "B": 39
+    },
+    "Lab": {
+      "L": 44.86,
+      "A": 64.77,
+      "B": 42.55
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Green",
+    "Rgb": {
+      "R": 5,
+      "G": 162,
+      "B": 75
+    },
+    "Lab": {
+      "L": 58.4,
+      "A": -55.04,
+      "B": 35.13
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Blue",
+    "Rgb": {
+      "R": 50,
+      "G": 98,
+      "B": 174
+    },
+    "Lab": {
+      "L": 41.95,
+      "A": 9.94,
+      "B": -45.38
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Golden Yellow",
+    "Rgb": {
+      "R": 244,
+      "G": 227,
+      "B": 17
+    },
+    "Lab": {
+      "L": 89.02,
+      "A": -12.44,
+      "B": 86.71
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Orange",
+    "Rgb": {
+      "R": 245,
+      "G": 131,
+      "B": 32
+    },
+    "Lab": {
+      "L": 66.33,
+      "A": 37.8,
+      "B": 66.52
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Burnt Red",
+    "Rgb": {
+      "R": 115,
+      "G": 21,
+      "B": 19
+    },
+    "Lab": {
+      "L": 24.41,
+      "A": 39.85,
+      "B": 27.25
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Mahogony",
+    "Rgb": {
+      "R": 78,
+      "G": 24,
+      "B": 12
+    },
+    "Lab": {
+      "L": 16.99,
+      "A": 24.71,
+      "B": 20.63
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Purple",
+    "Rgb": {
+      "R": 144,
+      "G": 54,
+      "B": 142
+    },
+    "Lab": {
+      "L": 38.76,
+      "A": 49.51,
+      "B": -30.75
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Magenta",
+    "Rgb": {
+      "R": 218,
+      "G": 75,
+      "B": 121
+    },
+    "Lab": {
+      "L": 53.3,
+      "A": 59.29,
+      "B": 5.1
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Sky Blue",
+    "Rgb": {
+      "R": 46,
+      "G": 170,
+      "B": 222
+    },
+    "Lab": {
+      "L": 65.44,
+      "A": -15.64,
+      "B": -35.65
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Faded Ultramarine",
+    "Rgb": {
+      "R": 129,
+      "G": 169,
+      "B": 218
+    },
+    "Lab": {
+      "L": 68.1,
+      "A": -1.08,
+      "B": -29.08
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Dark Grey Blue",
+    "Rgb": {
+      "R": 29,
+      "G": 56,
+      "B": 103
+    },
+    "Lab": {
+      "L": 23.9,
+      "A": 7.14,
+      "B": -30.66
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Bright Warm Grey",
+    "Rgb": {
+      "R": 205,
+      "G": 204,
+      "B": 184
+    },
+    "Lab": {
+      "L": 81.63,
+      "A": -3.12,
+      "B": 10.09
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Dark Warm Grey",
+    "Rgb": {
+      "R": 67,
+      "G": 68,
+      "B": 70
+    },
+    "Lab": {
+      "L": 28.82,
+      "A": 0.04,
+      "B": -1.36
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Golden Brown",
+    "Rgb": {
+      "R": 223,
+      "G": 176,
+      "B": 70
+    },
+    "Lab": {
+      "L": 74.31,
+      "A": 6.32,
+      "B": 58.7
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Light Umber",
+    "Rgb": {
+      "R": 103,
+      "G": 57,
+      "B": 34
+    },
+    "Lab": {
+      "L": 29.22,
+      "A": 18.05,
+      "B": 22.93
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Camo Green",
+    "Rgb": {
+      "R": 53,
+      "G": 86,
+      "B": 41
+    },
+    "Lab": {
+      "L": 33.08,
+      "A": -21.77,
+      "B": 22.35
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Jade",
+    "Rgb": {
+      "R": 5,
+      "G": 94,
+      "B": 100
+    },
+    "Lab": {
+      "L": 35.9,
+      "A": -20.67,
+      "B": -10.12
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Bright Ivory",
+    "Rgb": {
+      "R": 234,
+      "G": 233,
+      "B": 213
+    },
+    "Lab": {
+      "L": 91.94,
+      "A": -3.06,
+      "B": 9.83
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Ivory",
+    "Rgb": {
+      "R": 219,
+      "G": 212,
+      "B": 193
+    },
+    "Lab": {
+      "L": 85.0,
+      "A": -0.8,
+      "B": 10.25
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Tan Flesh",
+    "Rgb": {
+      "R": 222,
+      "G": 176,
+      "B": 140
+    },
+    "Lab": {
+      "L": 75.12,
+      "A": 11.89,
+      "B": 24.82
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Dark Blue",
+    "Rgb": {
+      "R": 10,
+      "G": 30,
+      "B": 57
+    },
+    "Lab": {
+      "L": 11.19,
+      "A": 3.21,
+      "B": -19.87
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Dark Purple",
+    "Rgb": {
+      "R": 29,
+      "G": 24,
+      "B": 80
+    },
+    "Lab": {
+      "L": 12.57,
+      "A": 21.09,
+      "B": -33.66
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Dark Camo Green",
+    "Rgb": {
+      "R": 58,
+      "G": 71,
+      "B": 43
+    },
+    "Lab": {
+      "L": 28.33,
+      "A": -11.07,
+      "B": 15.17
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Burnt Orange",
+    "Rgb": {
+      "R": 140,
+      "G": 61,
+      "B": 30
+    },
+    "Lab": {
+      "L": 36.0,
+      "A": 31.62,
+      "B": 34.39
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Yellow Ochre",
+    "Rgb": {
+      "R": 176,
+      "G": 118,
+      "B": 44
+    },
+    "Lab": {
+      "L": 54.42,
+      "A": 16.15,
+      "B": 47.97
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Bright Green Yellow",
+    "Rgb": {
+      "R": 147,
+      "G": 201,
+      "B": 63
+    },
+    "Lab": {
+      "L": 75.04,
+      "A": -38.1,
+      "B": 60.41
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Black Brown",
+    "Rgb": {
+      "R": 61,
+      "G": 55,
+      "B": 41
+    },
+    "Lab": {
+      "L": 23.29,
+      "A": -0.02,
+      "B": 9.75
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Olive Flesh",
+    "Rgb": {
+      "R": 229,
+      "G": 207,
+      "B": 157
+    },
+    "Lab": {
+      "L": 83.82,
+      "A": 0.35,
+      "B": 27.68
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Shadow Flesh",
+    "Rgb": {
+      "R": 175,
+      "G": 102,
+      "B": 83
+    },
+    "Lab": {
+      "L": 50.97,
+      "A": 27.34,
+      "B": 23.36
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Pale Pink",
+    "Rgb": {
+      "R": 244,
+      "G": 194,
+      "B": 185
+    },
+    "Lab": {
+      "L": 82.55,
+      "A": 16.54,
+      "B": 11.32
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Dark Neutral Grey",
+    "Rgb": {
+      "R": 55,
+      "G": 60,
+      "B": 63
+    },
+    "Lab": {
+      "L": 24.96,
+      "A": -1.36,
+      "B": -2.57
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Bright Neutral Grey",
+    "Rgb": {
+      "R": 194,
+      "G": 197,
+      "B": 190
+    },
+    "Lab": {
+      "L": 79.11,
+      "A": -2.31,
+      "B": 3.13
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Turquoise",
+    "Rgb": {
+      "R": 0,
+      "G": 181,
+      "B": 188
+    },
+    "Lab": {
+      "L": 67.04,
+      "A": -35.0,
+      "B": -14.47
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Grey Blue",
+    "Rgb": {
+      "R": 190,
+      "G": 210,
+      "B": 234
+    },
+    "Lab": {
+      "L": 83.43,
+      "A": -1.75,
+      "B": -14.07
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Blue Black",
+    "Rgb": {
+      "R": 43,
+      "G": 56,
+      "B": 64
+    },
+    "Lab": {
+      "L": 22.7,
+      "A": -3.09,
+      "B": -6.72
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Black Green",
+    "Rgb": {
+      "R": 24,
+      "G": 47,
+      "B": 27
+    },
+    "Lab": {
+      "L": 17.02,
+      "A": -14.42,
+      "B": 10.09
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Bright Pale Green",
+    "Rgb": {
+      "R": 164,
+      "G": 212,
+      "B": 164
+    },
+    "Lab": {
+      "L": 80.55,
+      "A": -24.87,
+      "B": 18.77
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Burnt Sienna",
+    "Rgb": {
+      "R": 112,
+      "G": 41,
+      "B": 23
+    },
+    "Lab": {
+      "L": 27.0,
+      "A": 30.36,
+      "B": 27.37
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Pale Yellow",
+    "Rgb": {
+      "R": 255,
+      "G": 247,
+      "B": 174
+    },
+    "Lab": {
+      "L": 96.34,
+      "A": -7.98,
+      "B": 36.12
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Dark Golden Brown",
+    "Rgb": {
+      "R": 126,
+      "G": 98,
+      "B": 48
+    },
+    "Lab": {
+      "L": 43.34,
+      "A": 5.15,
+      "B": 32.31
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Faded Plum",
+    "Rgb": {
+      "R": 151,
+      "G": 105,
+      "B": 142
+    },
+    "Lab": {
+      "L": 50.26,
+      "A": 24.61,
+      "B": -12.93
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Silver (Metal)",
+    "Rgb": {
+      "R": 134,
+      "G": 132,
+      "B": 133
+    },
+    "Lab": {
+      "L": 55.34,
+      "A": 0.94,
+      "B": -0.28
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Light Bronze (Metal)",
+    "Rgb": {
+      "R": 109,
+      "G": 95,
+      "B": 69
+    },
+    "Lab": {
+      "L": 41.0,
+      "A": 1.41,
+      "B": 16.97
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Copper (Metal)",
+    "Rgb": {
+      "R": 123,
+      "G": 72,
+      "B": 41
+    },
+    "Lab": {
+      "L": 36.0,
+      "A": 18.7,
+      "B": 27.53
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Rich Gold (Metal)",
+    "Rgb": {
+      "R": 150,
+      "G": 110,
+      "B": 49
+    },
+    "Lab": {
+      "L": 49.32,
+      "A": 9.28,
+      "B": 39.3
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "White Gold (Metal)",
+    "Rgb": {
+      "R": 135,
+      "G": 127,
+      "B": 108
+    },
+    "Lab": {
+      "L": 53.4,
+      "A": -0.31,
+      "B": 11.43
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Dark Silver (Metal)",
+    "Rgb": {
+      "R": 29,
+      "G": 37,
+      "B": 39
+    },
+    "Lab": {
+      "L": 14.01,
+      "A": -2.97,
+      "B": -2.51
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Bright Gold (Metal)",
+    "Rgb": {
+      "R": 161,
+      "G": 132,
+      "B": 88
+    },
+    "Lab": {
+      "L": 56.86,
+      "A": 5.05,
+      "B": 27.87
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Bronze (Metal)",
+    "Rgb": {
+      "R": 85,
+      "G": 69,
+      "B": 43
+    },
+    "Lab": {
+      "L": 30.31,
+      "A": 2.86,
+      "B": 18.24
+    }
+  },
+  {
+    "Brand": "Pro Acryl",
+    "Name": "Metallic Medium (Metal)",
+    "Rgb": {
+      "R": 150,
+      "G": 149,
+      "B": 145
+    },
+    "Lab": {
+      "L": 61.67,
+      "A": -0.39,
+      "B": 2.23
+    }
+  }
+]

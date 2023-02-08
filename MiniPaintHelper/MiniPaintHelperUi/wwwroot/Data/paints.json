@@ -18,5 +18,9 @@
   {
     "Brand": "Scale75",
     "File": "scale75.json"
+  },
+  {
+    "Brand": "Pro Acryl",
+    "File": "proacryl.json"
   }
 ]
