@@ -1,14 +1,17 @@
 ﻿@page "/paintfromimage"
 @inject IJSRuntime JsRuntime
+@implements IAsyncDisposable
 
 <MudContainer>
     <PageHeader Title="Paint Finder From Image" ContentLines="_headerLines"/>
     
     <MudGrid>
         <ElementContainer>
-            <input type="file" id="file_upload">
+            <div class="file-drop-zone @_hoverClass" @ondragenter="OnDragEnter" @ondragleave="OnDragLeave" @ondragover="OnDragEnter">
+                <InputFile OnChange="@OnChange" @ref="_inputFile" />
+            </div>
             <div id="canvas_container" style="width: 25rem; height:25rem; overflow: auto">
-                <canvas width="600" height="300" id="canvas_picker" style="display: block"></canvas>
+                <canvas width="600" height="300" id="canvas_picker" style="display: block" @ref="_canvas"></canvas>
             </div>
         </ElementContainer>
         
@@ -27,14 +30,56 @@
         "Upload an image, and click on the colour you want to find a matching paint for"
     };
 
-    protected override Task OnAfterRenderAsync(bool firstRender)
+    
+    IJSObjectReference _filePasteModule = default!;
+    IJSObjectReference _filePasteFunctionReference = default!;
+    IJSObjectReference _canvasPickerModule = default!;
+    IJSObjectReference _canvasPickerFunctionReference = default!;
+    ElementReference _canvas;
+    InputFile _inputFile = default!;
+    private string _hoverClass = "";
+    
+    protected override async Task OnAfterRenderAsync(bool firstRender)
     {
         if (firstRender)
         {
+            _filePasteModule = await JsRuntime.InvokeAsync<IJSObjectReference>("import", new []{"./js/filePaste.js"});
+            _filePasteFunctionReference = await _filePasteModule.InvokeAsync<IJSObjectReference>("initializeFilePaste");
+            
             var dotNetReference = DotNetObjectReference.Create(this);
-            JsRuntime.InvokeVoidAsync("registerImagePicker", dotNetReference);
+            _canvasPickerModule = await JsRuntime.InvokeAsync<IJSObjectReference>("import", new []{"./js/canvasPicker.js"});
+            _canvasPickerFunctionReference = await _canvasPickerModule.InvokeAsync<IJSObjectReference>("initializeCanvasPicker", _canvas, dotNetReference);
         }
-        return base.OnAfterRenderAsync(firstRender);
+        await base.OnAfterRenderAsync(firstRender);
+    }
+
+    void OnDragEnter(DragEventArgs e) => _hoverClass = "hover";
+
+    void OnDragLeave(DragEventArgs e) => _hoverClass = string.Empty;
+    
+    async Task OnChange(InputFileChangeEventArgs e)
+    {
+        foreach (var file in e.GetMultipleFiles(1))
+        {
+            await using var stream = file.OpenReadStream();
+            using var ms = new MemoryStream();
+            await stream.CopyToAsync(ms);
+            await _canvasPickerModule.InvokeVoidAsync("setCanvasImage", Convert.ToBase64String(ms.ToArray()));
+        }
+
+        _hoverClass = string.Empty;
+    }
+    
+    public async ValueTask DisposeAsync()
+    {
+        await _filePasteFunctionReference.InvokeVoidAsync("dispose");
+        await _filePasteFunctionReference.DisposeAsync();
+        await _filePasteModule.DisposeAsync();
+        
+        
+        await _canvasPickerFunctionReference.InvokeVoidAsync("dispose");
+        await _canvasPickerFunctionReference.DisposeAsync();
+        await _canvasPickerModule.DisposeAsync();
     }
 
     [JSInvokable]
@@ -42,4 +87,5 @@
     {
         _paintResults.GetPaintsFromColor(r, g, b);
     }
+
 }
