@@ -34,6 +34,22 @@ window.registerImagePicker = function (dotNetObject){
 
         paintFromImageRef.invokeMethodAsync("ColorPicked", R, G, B);
     });
+
+    document.onpaste = function (event) {
+        // use event.originalEvent.clipboard for newer chrome versions
+        let items = (event.clipboardData  || event.originalEvent.clipboardData).items;
+        let blob = null;
+        for (let i = 0; i < items.length; i++) {
+            if (items[i].type.indexOf("image") === 0) {
+                blob = items[i].getAsFile();
+            }
+        }
+        if (blob !== null) {
+            let reader = new FileReader();
+            reader.onload = imageIsLoaded
+            reader.readAsDataURL(blob);
+        }
+    }
 }
 
 
