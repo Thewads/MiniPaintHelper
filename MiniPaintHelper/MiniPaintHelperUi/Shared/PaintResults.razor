@@ -1,0 +1,76 @@
+﻿@using Microsoft.AspNetCore.Components
+@using Services
+@using Services.Models
+@inject IBrandService BrandService
+@inject IColorService ColorService
+
+<MudChipSet @bind-SelectedChips="_selectedBrandFilters"
+            SelectedValuesChanged="BrandFilterChanged" MultiSelection="true" Filter="true">
+    @foreach (var brand in Brands)
+    {
+        <MudChip Text="@brand" Default="true"></MudChip>
+    }
+</MudChipSet>
+<MudSimpleTable Style="width: 90%">
+    <thead>
+    <tr>
+        <th>Brand</th>
+        <th>Name</th>
+        <th>Sample</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var paint in ReturnedPaints)
+    {
+        <tr>
+            <td>@paint.Brand</td>
+            <td>@paint.Name</td>
+            <td style="background-color: rgb(@paint.Rgb.R, @paint.Rgb.G, @paint.Rgb.B)"></td>
+        </tr>
+    }
+    </tbody>
+</MudSimpleTable>
+
+
+@code {
+    
+    private IList<Paint> ReturnedPaints { get; set; } = new List<Paint>();
+    private IList<string> Brands { get; set; } = new List<string>();
+    private MudChip[] _selectedBrandFilters = Array.Empty<MudChip>();
+    private PaintRetrievalMode _currentMode = PaintRetrievalMode.Closest;
+    private int _lastR;
+    private int _lastG;
+    private int _lastB;
+
+    protected override async Task OnInitializedAsync()
+    {
+        Brands = await BrandService.GetBrands();
+        _selectedBrandFilters = new MudChip[Brands.Count];
+    }
+    
+    public async void GetPaintsFromColor(int r, int g, int b, PaintRetrievalMode mode = PaintRetrievalMode.Closest)
+    {
+        _currentMode = mode;
+        _lastR = r;
+        _lastG = g;
+        _lastB = b;
+        
+        if(_currentMode == PaintRetrievalMode.Closest)
+            ReturnedPaints = await ColorService.GetClosestPaints(_lastR, _lastG, _lastB, _selectedBrandFilters.Select(x => x.Text).ToList());
+        else
+            ReturnedPaints = await ColorService.GetContrastingPaints(_lastR, _lastG, _lastB, _selectedBrandFilters.Select(x => x.Text).ToList());
+            
+        StateHasChanged();
+    }
+
+    private void BrandFilterChanged()
+    {
+        GetPaintsFromColor(_lastR, _lastG, _lastB, _currentMode);
+    }
+    
+    public enum PaintRetrievalMode
+    {
+        Closest,
+        Contrasting
+    }
+}

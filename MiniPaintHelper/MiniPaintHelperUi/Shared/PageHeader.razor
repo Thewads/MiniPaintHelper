@@ -1,0 +1,17 @@
+﻿<MudText Typo="Typo.h4" Align="Align.Center" GutterBottom="true" class="mt-10">@Title</MudText>
+@foreach (var line in ContentLines)
+{
+    <MudText Typo="Typo.body1" Align="Align.Center" GutterBottom="true">@line</MudText>
+}
+<MudDivider class="mb-10"></MudDivider>
+
+
+@code {
+
+    [Parameter, EditorRequired]
+    public string Title { get; set; } = null!;
+
+    [Parameter]
+    public IList<string> ContentLines { get; set; } = new List<string>();
+
+}

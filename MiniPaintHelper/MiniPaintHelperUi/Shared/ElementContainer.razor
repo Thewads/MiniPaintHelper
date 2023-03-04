@@ -1,0 +1,12 @@
+﻿<MudItem xs="12" sm="6" md="6">
+    <MudPaper Elevation="2" Class="pa-4" style="min-height:470px;">
+        <MudStack Justify="Justify.Center" AlignItems="AlignItems.Center">
+            @ChildContent
+        </MudStack>
+    </MudPaper>
+</MudItem>
+
+@code {
+    [Parameter]
+    public RenderFragment ChildContent { get; set; } = default!;
+}

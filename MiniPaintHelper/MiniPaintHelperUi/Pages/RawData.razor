@@ -6,11 +6,9 @@
 <CustomHeadContent Title="Raw Paint Data" Overview="Raw data about miniature paints" Keywords="@(new []{"miniatures", "minis", "paint", "painting"})" />
 
 <MudContainer>
-    <MudText Typo="Typo.h4" Align="Align.Center" GutterBottom="true" class="mt-10">Raw Data</MudText>
-    <MudText Typo="Typo.body1" Align="Align.Center" GutterBottom="true">You can find all the raw data stored about the paints in the table below</MudText>
-    <MudDivider class="mb-10"></MudDivider>
     
-    
+    <PageHeader Title="Raw Data" ContentLines="_headerLines" />
+
     <MudTable Items="_paintData" Breakpoint="Breakpoint.Sm" Virtualize="true" FixedHeader="true">
         <HeaderContent>
             <MudTh>Brand</MudTh>
@@ -25,11 +23,16 @@
             <MudTd DataLabel="Lab">(@context.Lab.L, @context.Lab.A, @context.Lab.B)</MudTd>
         </RowTemplate>
     </MudTable>
-    
+
 </MudContainer>
 
 @code {
     IList<Paint> _paintData = new List<Paint>();
+
+    readonly List<string> _headerLines = new List<string>
+    {
+        "You can find all the raw data stored about the paints in the table below"
+    };
     
     protected override async Task OnInitializedAsync()
     {

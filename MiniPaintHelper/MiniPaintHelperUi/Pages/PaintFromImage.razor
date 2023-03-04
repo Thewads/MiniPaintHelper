@@ -1,0 +1,45 @@
+﻿@page "/paintfromimage"
+@inject IJSRuntime JsRuntime
+
+<MudContainer>
+    <PageHeader Title="Paint Finder From Image" ContentLines="_headerLines"/>
+    
+    <MudGrid>
+        <ElementContainer>
+            <input type="file" id="file_upload">
+            <div id="canvas_container" style="width: 25rem; height:25rem; overflow: auto">
+                <canvas width="600" height="300" id="canvas_picker" style="display: block"></canvas>
+            </div>
+        </ElementContainer>
+        
+        <ElementContainer>
+            <PaintResults @ref="_paintResults" />
+        </ElementContainer>
+        
+    </MudGrid>
+</MudContainer>
+
+@code {
+    PaintResults _paintResults = default!;
+    
+    readonly IList<string> _headerLines = new List<string>
+    {
+        "Upload an image, and click on the colour you want to find a matching paint for"
+    };
+
+    protected override Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            var dotNetReference = DotNetObjectReference.Create(this);
+            JsRuntime.InvokeVoidAsync("registerImagePicker", dotNetReference);
+        }
+        return base.OnAfterRenderAsync(firstRender);
+    }
+
+    [JSInvokable]
+    public void ColorPicked(int r, int g, int b)
+    {
+        _paintResults.GetPaintsFromColor(r, g, b);
+    }
+}
