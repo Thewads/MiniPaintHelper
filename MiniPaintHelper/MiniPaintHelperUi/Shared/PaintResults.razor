@@ -4,13 +4,19 @@
 @inject IBrandService BrandService
 @inject IColorService ColorService
 
-<MudChipSet @bind-SelectedChips="_selectedBrandFilters"
-            SelectedValuesChanged="BrandFilterChanged" MultiSelection="true" Filter="true">
+
+<MudSelect Style="width: 30rem" T="string" MultiSelection="true" SelectAll="true" 
+           SelectAllText="Select all paint ranges" 
+           @bind-Value="Value" 
+           Label="Paint Ranges" 
+           AdornmentIcon="@Icons.Material.Filled.Search"
+           SelectedValuesChanged="PaintRangeSelectionChanged">
     @foreach (var brand in Brands)
     {
-        <MudChip Text="@brand" Default="true"></MudChip>
+        <MudSelectItem T="string" Value="@brand">@brand</MudSelectItem>
     }
-</MudChipSet>
+</MudSelect>
+
 <MudSimpleTable Style="width: 90%">
     <thead>
     <tr>
@@ -36,16 +42,18 @@
     
     private IList<Paint> ReturnedPaints { get; set; } = new List<Paint>();
     private IList<string> Brands { get; set; } = new List<string>();
-    private MudChip[] _selectedBrandFilters = Array.Empty<MudChip>();
+    private IEnumerable<string> SelectedBrandFilters { get; set; } = new HashSet<string>();
     private PaintRetrievalMode _currentMode = PaintRetrievalMode.Closest;
     private int _lastR;
     private int _lastG;
     private int _lastB;
-
+    private string Value { get; set; } = "Nothing selected";
+    
     protected override async Task OnInitializedAsync()
     {
         Brands = await BrandService.GetBrands();
-        _selectedBrandFilters = new MudChip[Brands.Count];
+
+        SelectedBrandFilters = Brands;
     }
     
     public async void GetPaintsFromColor(int r, int g, int b, PaintRetrievalMode mode = PaintRetrievalMode.Closest)
@@ -56,9 +64,9 @@
         _lastB = b;
         
         if(_currentMode == PaintRetrievalMode.Closest)
-            ReturnedPaints = await ColorService.GetClosestPaints(_lastR, _lastG, _lastB, _selectedBrandFilters.Select(x => x.Text).ToList());
+            ReturnedPaints = await ColorService.GetClosestPaints(_lastR, _lastG, _lastB, SelectedBrandFilters.ToList());
         else
-            ReturnedPaints = await ColorService.GetContrastingPaints(_lastR, _lastG, _lastB, _selectedBrandFilters.Select(x => x.Text).ToList());
+            ReturnedPaints = await ColorService.GetContrastingPaints(_lastR, _lastG, _lastB, SelectedBrandFilters.ToList());
             
         StateHasChanged();
     }
@@ -66,6 +74,12 @@
     private void BrandFilterChanged()
     {
         GetPaintsFromColor(_lastR, _lastG, _lastB, _currentMode);
+    }
+
+    private void PaintRangeSelectionChanged(IEnumerable<string> obj)
+    {
+        SelectedBrandFilters = obj;
+        BrandFilterChanged();
     }
     
     public enum PaintRetrievalMode
