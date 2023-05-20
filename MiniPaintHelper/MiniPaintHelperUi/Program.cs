@@ -1,3 +1,4 @@
+using Blazor.Analytics;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using MiniPaintHelperUi;
@@ -17,5 +18,6 @@ builder.Services.AddScoped<IBrandService, BrandService>();
 builder.Services.AddScoped<IPaintProvider, JsonProvider>();
 builder.Services.AddScoped<IRgbToLabConverter, RgbToLabConverter>();
 builder.Services.AddMudServices();
+builder.Services.AddGoogleAnalytics("G-Z3ZGMFM0TH");
 
 await builder.Build().RunAsync();
