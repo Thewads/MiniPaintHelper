@@ -1,4 +1,7 @@
-﻿<Router AppAssembly="@typeof(App).Assembly">
+﻿@using Microsoft.Extensions.Configuration
+@inject IConfiguration Configuration
+
+<Router AppAssembly="@typeof(App).Assembly">
     <Found Context="routeData">
         <RouteView RouteData="@routeData" DefaultLayout="@typeof(MainLayout)"/>
         <FocusOnNavigate RouteData="@routeData" Selector="h1"/>
@@ -10,4 +13,7 @@
         </LayoutView>
     </NotFound>
 </Router>
-<NavigationTracker />
+@if (!string.IsNullOrEmpty(Configuration["google-analytics-key"]))
+{
+    <NavigationTracker />
+}
