@@ -18,6 +18,11 @@ builder.Services.AddScoped<IBrandService, BrandService>();
 builder.Services.AddScoped<IPaintProvider, JsonProvider>();
 builder.Services.AddScoped<IRgbToLabConverter, RgbToLabConverter>();
 builder.Services.AddMudServices();
-builder.Services.AddGoogleAnalytics("G-Z3ZGMFM0TH");
+
+var googleAnalyticsKey = builder.Configuration["google-analytics-key"];
+if (!string.IsNullOrEmpty(googleAnalyticsKey))
+{
+    builder.Services.AddGoogleAnalytics(googleAnalyticsKey);
+}
 
 await builder.Build().RunAsync();
