@@ -16,6 +16,10 @@
     "File": "armypainter.json"
   },
   {
+    "Brand": "Army Painter Fanatic",
+    "File": "armypainterfanatic.json"
+  },
+  {
     "Brand": "Scale75",
     "File": "scale75.json"
   },
