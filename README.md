@@ -44,7 +44,8 @@ To get the project up and running locally, follow the steps below
     - [x] Vallejo Model
     - [x] Army Painter
     - [X] Scale 75
-    - [ ] Pro Acryl
+    - [X] Pro Acryl
+    - [X] Army Painter Fanatic 
 - [ ] Filtering out of specific types of paint
     - [x] Paint brands
     - [ ] Metallics
